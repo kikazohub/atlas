@@ -1,0 +1,236 @@
+@import "tailwindcss";
+
+:root {
+  --background: #060b14;
+  --foreground: #e8ecf8;
+}
+
+@theme inline {
+  --color-background: var(--background);
+  --color-foreground: var(--foreground);
+  --font-sans: var(--font-poppins);
+  --font-mono: var(--font-mono);
+}
+
+html {
+  scroll-behavior: smooth;
+}
+
+body {
+  background: var(--background);
+  color: var(--foreground);
+  font-family: var(--font-poppins), ui-sans-serif, system-ui, sans-serif;
+  background-image:
+    radial-gradient(1200px 600px at 12% -10%, rgba(56, 130, 246, 0.14), transparent 60%),
+    radial-gradient(1000px 500px at 108% 8%, rgba(245, 158, 11, 0.1), transparent 55%),
+    radial-gradient(900px 600px at 50% 120%, rgba(16, 185, 129, 0.07), transparent 60%);
+  background-attachment: fixed;
+}
+
+::selection {
+  background: rgba(250, 204, 21, 0.4);
+}
+
+/* ---------- scrollbars ---------- */
+.nice-scroll::-webkit-scrollbar {
+  height: 8px;
+  width: 8px;
+}
+.nice-scroll::-webkit-scrollbar-track {
+  background: transparent;
+}
+.nice-scroll::-webkit-scrollbar-thumb {
+  background: rgba(255, 255, 255, 0.14);
+  border-radius: 999px;
+}
+.nice-scroll::-webkit-scrollbar-thumb:hover {
+  background: rgba(255, 255, 255, 0.25);
+}
+
+/* ---------- keyframes ---------- */
+@keyframes float-slow {
+  0%,
+  100% {
+    transform: translateY(0);
+  }
+  50% {
+    transform: translateY(-10px);
+  }
+}
+@keyframes fade-up {
+  0% {
+    opacity: 0;
+    transform: translateY(16px);
+  }
+  100% {
+    opacity: 1;
+    transform: translateY(0);
+  }
+}
+@keyframes pop-in {
+  0% {
+    opacity: 0;
+    transform: scale(0.85) translateY(8px);
+  }
+  100% {
+    opacity: 1;
+    transform: scale(1) translateY(0);
+  }
+}
+@keyframes shake-x {
+  0%,
+  100% {
+    transform: translateX(0);
+  }
+  20% {
+    transform: translateX(-6px);
+  }
+  40% {
+    transform: translateX(6px);
+  }
+  60% {
+    transform: translateX(-4px);
+  }
+  80% {
+    transform: translateX(4px);
+  }
+}
+@keyframes bar-grow {
+  0% {
+    width: 0%;
+  }
+}
+@keyframes spin-slow {
+  0% {
+    transform: rotate(0deg);
+  }
+  100% {
+    transform: rotate(360deg);
+  }
+}
+@keyframes shimmer {
+  0% {
+    background-position: -200% 0;
+  }
+  100% {
+    background-position: 200% 0;
+  }
+}
+@keyframes twinkle {
+  0%,
+  100% {
+    opacity: 0;
+    transform: scale(0.6) rotate(0deg);
+  }
+  50% {
+    opacity: 1;
+    transform: scale(1.15) rotate(20deg);
+  }
+}
+@keyframes find-pulse {
+  0%,
+  100% {
+    fill: #fbbf24;
+    filter: drop-shadow(0 0 0 rgba(251, 191, 36, 0));
+  }
+  50% {
+    fill: #fcd34d;
+    filter: drop-shadow(0 0 12px rgba(251, 191, 36, 0.9));
+  }
+}
+@keyframes flash-ok {
+  0% {
+    fill: #34d399;
+  }
+  100% {
+    fill: #34d399;
+  }
+}
+@keyframes flash-bad {
+  0% {
+    fill: #f43f5e;
+  }
+  100% {
+    fill: #f43f5e;
+  }
+}
+
+/* ---------- animation utilities ---------- */
+.anim-float-slow {
+  animation: float-slow 4s ease-in-out infinite;
+}
+.anim-fade-up {
+  animation: fade-up 0.5s cubic-bezier(0.2, 0.9, 0.3, 1) both;
+}
+.anim-pop-in {
+  animation: pop-in 0.35s cubic-bezier(0.2, 0.9, 0.3, 1.15) both;
+}
+.anim-shake-x {
+  animation: shake-x 0.4s ease both;
+}
+.anim-bar-grow {
+  animation: bar-grow 0.8s cubic-bezier(0.2, 0.9, 0.3, 1) both;
+}
+.anim-spin-slow {
+  animation: spin-slow 6s linear infinite;
+}
+.anim-twinkle {
+  animation: twinkle 1s ease-in-out both;
+}
+.anim-find-pulse {
+  animation: find-pulse 1.1s ease-in-out infinite;
+}
+.anim-flash-ok {
+  animation: flash-ok 1s ease both;
+}
+.anim-flash-bad {
+  animation: flash-bad 1s ease both;
+}
+
+/* ---------- misc ---------- */
+.card {
+  position: relative;
+  border: 1px solid rgba(255, 255, 255, 0.08);
+  border-radius: 1.25rem;
+  background: linear-gradient(165deg, rgba(255, 255, 255, 0.055), rgba(255, 255, 255, 0.02));
+  box-shadow: 0 10px 40px -18px rgba(0, 0, 0, 0.7);
+  backdrop-filter: blur(14px);
+}
+
+.btn-press {
+  transition:
+    transform 0.12s ease,
+    filter 0.2s ease;
+}
+.btn-press:hover {
+  filter: brightness(1.12);
+}
+.btn-press:active {
+  transform: scale(0.94);
+}
+
+.shimmer-text {
+  background: linear-gradient(110deg, #fff 35%, #facc15 50%, #fff 65%);
+  background-size: 200% 100%;
+  -webkit-background-clip: text;
+  background-clip: text;
+  color: transparent;
+  animation: shimmer 3.5s linear infinite;
+}
+
+.atlas-country {
+  cursor: pointer;
+}
+.atlas-country:hover {
+  filter: brightness(1.35);
+}
+.atlas-marker {
+  cursor: pointer;
+}
+
+.grid-bg {
+  background-image:
+    linear-gradient(rgba(255, 255, 255, 0.03) 1px, transparent 1px),
+    linear-gradient(90deg, rgba(255, 255, 255, 0.03) 1px, transparent 1px);
+  background-size: 32px 32px;
+}

@@ -1,0 +1,6230 @@
+[
+  {
+    "cca2": "AF",
+    "cca3": "AFG",
+    "ccn3": "004",
+    "nameES": "Afganistán",
+    "nameEN": "Afghanistan",
+    "capital": "Kabul",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 37172386,
+    "area": 652230,
+    "currencies": [
+      {
+        "code": "AFN",
+        "name": "Afgani",
+        "symbol": "؋"
+      }
+    ],
+    "languages": [
+      "Dari",
+      "Pashto",
+      "Turkmen"
+    ],
+    "demonym": "afgano/a",
+    "latlng": [
+      33,
+      65
+    ],
+    "flagEmoji": "🇦🇫",
+    "hasPolygon": true,
+    "nativeName": "افغانستان",
+    "nativeLang": "fa"
+  },
+  {
+    "cca2": "AL",
+    "cca3": "ALB",
+    "ccn3": "008",
+    "nameES": "Albania",
+    "nameEN": "Albania",
+    "capital": "Tirana",
+    "continent": "europe",
+    "subregion": "Southeast Europe",
+    "population": 2866376,
+    "area": 28748,
+    "currencies": [
+      {
+        "code": "ALL",
+        "name": "Lek albanés",
+        "symbol": "L"
+      }
+    ],
+    "languages": [
+      "Albanés"
+    ],
+    "demonym": "albanés/a",
+    "latlng": [
+      41,
+      20
+    ],
+    "flagEmoji": "🇦🇱",
+    "hasPolygon": true,
+    "nativeName": "Shqipëria",
+    "nativeLang": "sq"
+  },
+  {
+    "cca2": "DE",
+    "cca3": "DEU",
+    "ccn3": "276",
+    "nameES": "Alemania",
+    "nameEN": "Germany",
+    "capital": "Berlin",
+    "continent": "europe",
+    "subregion": "Europa Occidental",
+    "population": 82905782,
+    "area": 357114,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Alemán"
+    ],
+    "demonym": "alemán/a",
+    "latlng": [
+      51,
+      9
+    ],
+    "flagEmoji": "🇩🇪",
+    "hasPolygon": true,
+    "nativeName": "Deutschland",
+    "nativeLang": "de"
+  },
+  {
+    "cca2": "AD",
+    "cca3": "AND",
+    "ccn3": "020",
+    "nameES": "Andorra",
+    "nameEN": "Andorra",
+    "capital": "Andorra la Vella",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "population": 77006,
+    "area": 468,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Catalán"
+    ],
+    "demonym": "andorrano/a",
+    "latlng": [
+      42.5,
+      1.5
+    ],
+    "flagEmoji": "🇦🇩",
+    "hasPolygon": false,
+    "nativeName": "Andorra",
+    "nativeLang": "ca"
+  },
+  {
+    "cca2": "AO",
+    "cca3": "AGO",
+    "ccn3": "024",
+    "nameES": "Angola",
+    "nameEN": "Angola",
+    "capital": "Luanda",
+    "continent": "africa",
+    "subregion": "África Central",
+    "population": 30809762,
+    "area": 1246700,
+    "currencies": [
+      {
+        "code": "AOA",
+        "name": "Kwanza",
+        "symbol": "Kz"
+      }
+    ],
+    "languages": [
+      "Portugués"
+    ],
+    "demonym": "angoleño/a",
+    "latlng": [
+      -12.5,
+      18.5
+    ],
+    "flagEmoji": "🇦🇴",
+    "hasPolygon": true,
+    "nativeName": "Angola",
+    "nativeLang": "pt"
+  },
+  {
+    "cca2": "AG",
+    "cca3": "ATG",
+    "ccn3": "028",
+    "nameES": "Antigua y Barbuda",
+    "nameEN": "Antigua and Barbuda",
+    "capital": "Saint John's",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 96286,
+    "area": 442,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Dólar del Caribe Oriental",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Antiguan, Barbudan",
+    "latlng": [
+      17.05,
+      -61.8
+    ],
+    "flagEmoji": "🇦🇬",
+    "hasPolygon": false,
+    "nativeName": "Antigua and Barbuda",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "SA",
+    "cca3": "SAU",
+    "ccn3": "682",
+    "nameES": "Arabia Saudí",
+    "nameEN": "Saudi Arabia",
+    "capital": "Riad",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 33699947,
+    "area": 2149690,
+    "currencies": [
+      {
+        "code": "SAR",
+        "name": "Riyal saudí",
+        "symbol": "ر.س"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "saudí",
+    "latlng": [
+      25,
+      45
+    ],
+    "flagEmoji": "🇸🇦",
+    "hasPolygon": true,
+    "nativeName": "العربية السعودية",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "DZ",
+    "cca3": "DZA",
+    "ccn3": "012",
+    "nameES": "Argelia",
+    "nameEN": "Algeria",
+    "capital": "Argel",
+    "continent": "africa",
+    "subregion": "África del Norte",
+    "population": 42228429,
+    "area": 2381741,
+    "currencies": [
+      {
+        "code": "DZD",
+        "name": "Dinar argelino",
+        "symbol": "د.ج"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "argelino/a",
+    "latlng": [
+      28,
+      3
+    ],
+    "flagEmoji": "🇩🇿",
+    "hasPolygon": true,
+    "nativeName": "الجزائر",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "AR",
+    "cca3": "ARG",
+    "ccn3": "032",
+    "nameES": "Argentina",
+    "nameEN": "Argentina",
+    "capital": "Buenos Aires",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 44494502,
+    "area": 2780400,
+    "currencies": [
+      {
+        "code": "ARS",
+        "name": "Peso argentino",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Guaraní",
+      "Español"
+    ],
+    "demonym": "argentino/a",
+    "latlng": [
+      -34,
+      -64
+    ],
+    "flagEmoji": "🇦🇷",
+    "hasPolygon": true,
+    "nativeName": "Argentina",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "AM",
+    "cca3": "ARM",
+    "ccn3": "051",
+    "nameES": "Armenia",
+    "nameEN": "Armenia",
+    "capital": "Ereván",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 2951776,
+    "area": 29743,
+    "currencies": [
+      {
+        "code": "AMD",
+        "name": "Dram",
+        "symbol": "֏"
+      }
+    ],
+    "languages": [
+      "Armenio"
+    ],
+    "demonym": "armenio/a",
+    "latlng": [
+      40,
+      45
+    ],
+    "flagEmoji": "🇦🇲",
+    "hasPolygon": true,
+    "nativeName": "Հայաստան",
+    "nativeLang": "hy"
+  },
+  {
+    "cca2": "AU",
+    "cca3": "AUS",
+    "ccn3": "036",
+    "nameES": "Australia",
+    "nameEN": "Australia",
+    "capital": "Canberra",
+    "continent": "oceania",
+    "subregion": "Australia y Nueva Zelanda",
+    "population": 24982688,
+    "area": 7692024,
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Dólar australiano",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "australiano/a",
+    "latlng": [
+      -27,
+      133
+    ],
+    "flagEmoji": "🇦🇺",
+    "hasPolygon": true,
+    "nativeName": "Australia",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "AT",
+    "cca3": "AUT",
+    "ccn3": "040",
+    "nameES": "Austria",
+    "nameEN": "Austria",
+    "capital": "Vienna",
+    "continent": "europe",
+    "subregion": "Central Europe",
+    "population": 8840521,
+    "area": 83871,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Austro-Bavarian German"
+    ],
+    "demonym": "austriaco/a",
+    "latlng": [
+      47.33333333,
+      13.33333333
+    ],
+    "flagEmoji": "🇦🇹",
+    "hasPolygon": true,
+    "nativeName": "Österreich",
+    "nativeLang": "de"
+  },
+  {
+    "cca2": "AZ",
+    "cca3": "AZE",
+    "ccn3": "031",
+    "nameES": "Azerbaiyán",
+    "nameEN": "Azerbaijan",
+    "capital": "Bakú",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 9939800,
+    "area": 86600,
+    "currencies": [
+      {
+        "code": "AZN",
+        "name": "Manat azerbaiyano",
+        "symbol": "₼"
+      }
+    ],
+    "languages": [
+      "Azerí",
+      "Ruso"
+    ],
+    "demonym": "azerbaiyano/a",
+    "latlng": [
+      40.5,
+      47.5
+    ],
+    "flagEmoji": "🇦🇿",
+    "hasPolygon": true,
+    "nativeName": "Azərbaycan",
+    "nativeLang": "az"
+  },
+  {
+    "cca2": "BS",
+    "cca3": "BHS",
+    "ccn3": "044",
+    "nameES": "Bahamas",
+    "nameEN": "Bahamas",
+    "capital": "Nassau",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 385640,
+    "area": 13943,
+    "currencies": [
+      {
+        "code": "BSD",
+        "name": "Dólar bahameño",
+        "symbol": "$"
+      },
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Bahamian",
+    "latlng": [
+      24.25,
+      -76
+    ],
+    "flagEmoji": "🇧🇸",
+    "hasPolygon": true,
+    "nativeName": "Bahamas",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "BH",
+    "cca3": "BHR",
+    "ccn3": "048",
+    "nameES": "Bahrein",
+    "nameEN": "Bahrain",
+    "capital": "Manama",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 1569439,
+    "area": 765,
+    "currencies": [
+      {
+        "code": "BHD",
+        "name": "Dinar bahreiní",
+        "symbol": ".د.ب"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "bahreiní",
+    "latlng": [
+      26,
+      50.55
+    ],
+    "flagEmoji": "🇧🇭",
+    "hasPolygon": false,
+    "nativeName": "‏البحرين",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "BD",
+    "cca3": "BGD",
+    "ccn3": "050",
+    "nameES": "Bangladesh",
+    "nameEN": "Bangladesh",
+    "capital": "Daca",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 161356039,
+    "area": 147570,
+    "currencies": [
+      {
+        "code": "BDT",
+        "name": "Taka bangladesí",
+        "symbol": "৳"
+      }
+    ],
+    "languages": [
+      "Bengalí"
+    ],
+    "demonym": "bangladesí",
+    "latlng": [
+      24,
+      90
+    ],
+    "flagEmoji": "🇧🇩",
+    "hasPolygon": true,
+    "nativeName": "বাংলাদেশ",
+    "nativeLang": "bn"
+  },
+  {
+    "cca2": "BB",
+    "cca3": "BRB",
+    "ccn3": "052",
+    "nameES": "Barbados",
+    "nameEN": "Barbados",
+    "capital": "Bridgetown",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 286641,
+    "area": 430,
+    "currencies": [
+      {
+        "code": "BBD",
+        "name": "Dólar de Barbados",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Barbadian",
+    "latlng": [
+      13.16666666,
+      -59.53333333
+    ],
+    "flagEmoji": "🇧🇧",
+    "hasPolygon": false,
+    "nativeName": "Barbados",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "BE",
+    "cca3": "BEL",
+    "ccn3": "056",
+    "nameES": "Bélgica",
+    "nameEN": "Belgium",
+    "capital": "Bruselas",
+    "continent": "europe",
+    "subregion": "Europa Occidental",
+    "population": 11433256,
+    "area": 30528,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Alemán",
+      "Francés",
+      "Neerlandés"
+    ],
+    "demonym": "belga",
+    "latlng": [
+      50.83333333,
+      4
+    ],
+    "flagEmoji": "🇧🇪",
+    "hasPolygon": true,
+    "nativeName": "België",
+    "nativeLang": "nl"
+  },
+  {
+    "cca2": "BZ",
+    "cca3": "BLZ",
+    "ccn3": "084",
+    "nameES": "Belice",
+    "nameEN": "Belize",
+    "capital": "Belmopán",
+    "continent": "north-america",
+    "subregion": "Centroamérica",
+    "population": 383071,
+    "area": 22966,
+    "currencies": [
+      {
+        "code": "BZD",
+        "name": "Dólar beliceño",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Belizean Creole",
+      "Inglés",
+      "Español"
+    ],
+    "demonym": "beliceño/a",
+    "latlng": [
+      17.25,
+      -88.75
+    ],
+    "flagEmoji": "🇧🇿",
+    "hasPolygon": true,
+    "nativeName": "Belize",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "BJ",
+    "cca3": "BEN",
+    "ccn3": "204",
+    "nameES": "Benín",
+    "nameEN": "Benin",
+    "capital": "Porto-Novo",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 11485048,
+    "area": 112622,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "Franco CFA de África Occidental",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "beninés/a",
+    "latlng": [
+      9.5,
+      2.25
+    ],
+    "flagEmoji": "🇧🇯",
+    "hasPolygon": true,
+    "nativeName": "Bénin",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "BY",
+    "cca3": "BLR",
+    "ccn3": "112",
+    "nameES": "Bielorrusia",
+    "nameEN": "Belarus",
+    "capital": "Minsk",
+    "continent": "europe",
+    "subregion": "Europa Oriental",
+    "population": 9483499,
+    "area": 207600,
+    "currencies": [
+      {
+        "code": "BYN",
+        "name": "Rublo bielorruso",
+        "symbol": "Br"
+      }
+    ],
+    "languages": [
+      "Bielorruso",
+      "Ruso"
+    ],
+    "demonym": "bielorruso/a",
+    "latlng": [
+      53,
+      28
+    ],
+    "flagEmoji": "🇧🇾",
+    "hasPolygon": true,
+    "nativeName": "Белару́сь",
+    "nativeLang": "be"
+  },
+  {
+    "cca2": "BO",
+    "cca3": "BOL",
+    "ccn3": "068",
+    "nameES": "Bolivia",
+    "nameEN": "Bolivia",
+    "capital": "La Paz",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 11353142,
+    "area": 1098581,
+    "currencies": [
+      {
+        "code": "BOB",
+        "name": "Boliviano",
+        "symbol": "Bs."
+      }
+    ],
+    "languages": [
+      "Aymara",
+      "Guaraní",
+      "Quechua",
+      "Español"
+    ],
+    "demonym": "boliviano/a",
+    "latlng": [
+      -17,
+      -65
+    ],
+    "flagEmoji": "🇧🇴",
+    "hasPolygon": true,
+    "nativeName": "Bolivia",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "BA",
+    "cca3": "BIH",
+    "ccn3": "070",
+    "nameES": "Bosnia y Herzegovina",
+    "nameEN": "Bosnia and Herzegovina",
+    "capital": "Sarajevo",
+    "continent": "europe",
+    "subregion": "Southeast Europe",
+    "population": 3323929,
+    "area": 51209,
+    "currencies": [
+      {
+        "code": "BAM",
+        "name": "Marco convertible",
+        "symbol": "KM"
+      }
+    ],
+    "languages": [
+      "Bosnio",
+      "Croata",
+      "Serbio"
+    ],
+    "demonym": "bosnio/a",
+    "latlng": [
+      44,
+      18
+    ],
+    "flagEmoji": "🇧🇦",
+    "hasPolygon": true,
+    "nativeName": "Bosna i Hercegovina",
+    "nativeLang": "bs"
+  },
+  {
+    "cca2": "BW",
+    "cca3": "BWA",
+    "ccn3": "072",
+    "nameES": "Botswana",
+    "nameEN": "Botswana",
+    "capital": "Gaborone",
+    "continent": "africa",
+    "subregion": "África Austral",
+    "population": 2254126,
+    "area": 582000,
+    "currencies": [
+      {
+        "code": "BWP",
+        "name": "Pula",
+        "symbol": "P"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Tswana"
+    ],
+    "demonym": "botsuano/a",
+    "latlng": [
+      -22,
+      24
+    ],
+    "flagEmoji": "🇧🇼",
+    "hasPolygon": true,
+    "nativeName": "Botswana",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "BR",
+    "cca3": "BRA",
+    "ccn3": "076",
+    "nameES": "Brasil",
+    "nameEN": "Brazil",
+    "capital": "Brasília",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 209469333,
+    "area": 8515767,
+    "currencies": [
+      {
+        "code": "BRL",
+        "name": "Real brasileño",
+        "symbol": "R$"
+      }
+    ],
+    "languages": [
+      "Portugués"
+    ],
+    "demonym": "brasileño/a",
+    "latlng": [
+      -10,
+      -55
+    ],
+    "flagEmoji": "🇧🇷",
+    "hasPolygon": true,
+    "nativeName": "Brasil",
+    "nativeLang": "pt"
+  },
+  {
+    "cca2": "BN",
+    "cca3": "BRN",
+    "ccn3": "096",
+    "nameES": "Brunei",
+    "nameEN": "Brunei",
+    "capital": "Bandar Seri Begawan",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 428962,
+    "area": 5765,
+    "currencies": [
+      {
+        "code": "BND",
+        "name": "Dólar de Brunéi",
+        "symbol": "$"
+      },
+      {
+        "code": "SGD",
+        "name": "Dólar de Singapur",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Malayo"
+    ],
+    "demonym": "Bruneian",
+    "latlng": [
+      4.5,
+      114.66666666
+    ],
+    "flagEmoji": "🇧🇳",
+    "hasPolygon": true,
+    "nativeName": "Negara Brunei Darussalam",
+    "nativeLang": "ms"
+  },
+  {
+    "cca2": "BG",
+    "cca3": "BGR",
+    "ccn3": "100",
+    "nameES": "Bulgaria",
+    "nameEN": "Bulgaria",
+    "capital": "Sofia",
+    "continent": "europe",
+    "subregion": "Southeast Europe",
+    "population": 7025037,
+    "area": 110879,
+    "currencies": [
+      {
+        "code": "BGN",
+        "name": "Lev búlgaro",
+        "symbol": "лв"
+      }
+    ],
+    "languages": [
+      "Búlgaro"
+    ],
+    "demonym": "búlgaro/a",
+    "latlng": [
+      43,
+      25
+    ],
+    "flagEmoji": "🇧🇬",
+    "hasPolygon": true,
+    "nativeName": "България",
+    "nativeLang": "bg"
+  },
+  {
+    "cca2": "BF",
+    "cca3": "BFA",
+    "ccn3": "854",
+    "nameES": "Burkina Faso",
+    "nameEN": "Burkina Faso",
+    "capital": "Ouagadougou",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 19751535,
+    "area": 272967,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "Franco CFA de África Occidental",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "burkinés",
+    "latlng": [
+      13,
+      -2
+    ],
+    "flagEmoji": "🇧🇫",
+    "hasPolygon": true,
+    "nativeName": "Burkina Faso",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "BI",
+    "cca3": "BDI",
+    "ccn3": "108",
+    "nameES": "Burundi",
+    "nameEN": "Burundi",
+    "capital": "Gitega",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 11175378,
+    "area": 27834,
+    "currencies": [
+      {
+        "code": "BIF",
+        "name": "Franco burundés",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés",
+      "Kirundi"
+    ],
+    "demonym": "burundés/a",
+    "latlng": [
+      -3.5,
+      30
+    ],
+    "flagEmoji": "🇧🇮",
+    "hasPolygon": true,
+    "nativeName": "Burundi",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "BT",
+    "cca3": "BTN",
+    "ccn3": "064",
+    "nameES": "Bután",
+    "nameEN": "Bhutan",
+    "capital": "Timbu",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 754394,
+    "area": 38394,
+    "currencies": [
+      {
+        "code": "BTN",
+        "name": "Bhutanese ngultrum",
+        "symbol": "Nu."
+      },
+      {
+        "code": "INR",
+        "name": "Rupia india",
+        "symbol": "₹"
+      }
+    ],
+    "languages": [
+      "Dzongkha"
+    ],
+    "demonym": "butanés/a",
+    "latlng": [
+      27.5,
+      90.5
+    ],
+    "flagEmoji": "🇧🇹",
+    "hasPolygon": true,
+    "nativeName": "Druk Yul",
+    "nativeLang": "dzo"
+  },
+  {
+    "cca2": "CV",
+    "cca3": "CPV",
+    "ccn3": "132",
+    "nameES": "Cabo Verde",
+    "nameEN": "Cape Verde",
+    "capital": "Praia",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 543767,
+    "area": 4033,
+    "currencies": [
+      {
+        "code": "CVE",
+        "name": "Escudo caboverdiano",
+        "symbol": "Esc"
+      }
+    ],
+    "languages": [
+      "Portugués"
+    ],
+    "demonym": "caboverdiano/a",
+    "latlng": [
+      16,
+      -24
+    ],
+    "flagEmoji": "🇨🇻",
+    "hasPolygon": false,
+    "nativeName": "Cabo Verde",
+    "nativeLang": "pt"
+  },
+  {
+    "cca2": "KH",
+    "cca3": "KHM",
+    "ccn3": "116",
+    "nameES": "Camboya",
+    "nameEN": "Cambodia",
+    "capital": "Nom Pen",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 16249798,
+    "area": 181035,
+    "currencies": [
+      {
+        "code": "KHR",
+        "name": "Riel camboyano",
+        "symbol": "៛"
+      },
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Jemer"
+    ],
+    "demonym": "camboyano/a",
+    "latlng": [
+      13,
+      105
+    ],
+    "flagEmoji": "🇰🇭",
+    "hasPolygon": true,
+    "nativeName": "Kâmpŭchéa",
+    "nativeLang": "km"
+  },
+  {
+    "cca2": "CM",
+    "cca3": "CMR",
+    "ccn3": "120",
+    "nameES": "Camerún",
+    "nameEN": "Cameroon",
+    "capital": "Yaoundé",
+    "continent": "africa",
+    "subregion": "África Central",
+    "population": 25216237,
+    "area": 475442,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Franco CFA de África Central",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Francés"
+    ],
+    "demonym": "camerunés/a",
+    "latlng": [
+      6,
+      12
+    ],
+    "flagEmoji": "🇨🇲",
+    "hasPolygon": true,
+    "nativeName": "Cameroon",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "CA",
+    "cca3": "CAN",
+    "ccn3": "124",
+    "nameES": "Canadá",
+    "nameEN": "Canada",
+    "capital": "Ottawa",
+    "continent": "north-america",
+    "subregion": "North America",
+    "population": 37057765,
+    "area": 9984670,
+    "currencies": [
+      {
+        "code": "CAD",
+        "name": "Dólar canadiense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Francés"
+    ],
+    "demonym": "canadiense",
+    "latlng": [
+      60,
+      -95
+    ],
+    "flagEmoji": "🇨🇦",
+    "hasPolygon": true,
+    "nativeName": "Canada",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "QA",
+    "cca3": "QAT",
+    "ccn3": "634",
+    "nameES": "Catar",
+    "nameEN": "Qatar",
+    "capital": "Doha",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 2781677,
+    "area": 11586,
+    "currencies": [
+      {
+        "code": "QAR",
+        "name": "Riyal qatarí",
+        "symbol": "ر.ق"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "catarí",
+    "latlng": [
+      25.5,
+      51.25
+    ],
+    "flagEmoji": "🇶🇦",
+    "hasPolygon": true,
+    "nativeName": "قطر",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "TD",
+    "cca3": "TCD",
+    "ccn3": "148",
+    "nameES": "Chad",
+    "nameEN": "Chad",
+    "capital": "N'Djamena",
+    "continent": "africa",
+    "subregion": "África Central",
+    "population": 15477751,
+    "area": 1284000,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Franco CFA de África Central",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Francés"
+    ],
+    "demonym": "chadiano/a",
+    "latlng": [
+      15,
+      19
+    ],
+    "flagEmoji": "🇹🇩",
+    "hasPolygon": true,
+    "nativeName": "تشاد‎",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "CZ",
+    "cca3": "CZE",
+    "ccn3": "203",
+    "nameES": "Chequia",
+    "nameEN": "Czechia",
+    "capital": "Praga",
+    "continent": "europe",
+    "subregion": "Central Europe",
+    "population": 10629928,
+    "area": 78865,
+    "currencies": [
+      {
+        "code": "CZK",
+        "name": "Corona checa",
+        "symbol": "Kč"
+      }
+    ],
+    "languages": [
+      "Checo",
+      "Eslovaco"
+    ],
+    "demonym": "checo/a",
+    "latlng": [
+      49.75,
+      15.5
+    ],
+    "flagEmoji": "🇨🇿",
+    "hasPolygon": true,
+    "nativeName": "Česko",
+    "nativeLang": "cs"
+  },
+  {
+    "cca2": "CL",
+    "cca3": "CHL",
+    "ccn3": "152",
+    "nameES": "Chile",
+    "nameEN": "Chile",
+    "capital": "Santiago",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 18729160,
+    "area": 756102,
+    "currencies": [
+      {
+        "code": "CLP",
+        "name": "Peso chileno",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "chileno/a",
+    "latlng": [
+      -30,
+      -71
+    ],
+    "flagEmoji": "🇨🇱",
+    "hasPolygon": true,
+    "nativeName": "Chile",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "CN",
+    "cca3": "CHN",
+    "ccn3": "156",
+    "nameES": "China",
+    "nameEN": "China",
+    "capital": "Pekín",
+    "continent": "asia",
+    "subregion": "Asia Oriental",
+    "population": 1392730000,
+    "area": 9706961,
+    "currencies": [
+      {
+        "code": "CNY",
+        "name": "Yuan",
+        "symbol": "¥"
+      }
+    ],
+    "languages": [
+      "Chino"
+    ],
+    "demonym": "chino/a",
+    "latlng": [
+      35,
+      105
+    ],
+    "flagEmoji": "🇨🇳",
+    "hasPolygon": true,
+    "nativeName": "中国",
+    "nativeLang": "zh"
+  },
+  {
+    "cca2": "CY",
+    "cca3": "CYP",
+    "ccn3": "196",
+    "nameES": "Chipre",
+    "nameEN": "Cyprus",
+    "capital": "Nicosia",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "population": 1189265,
+    "area": 9251,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Griego",
+      "Turco"
+    ],
+    "demonym": "Cypriot",
+    "latlng": [
+      35,
+      33
+    ],
+    "flagEmoji": "🇨🇾",
+    "hasPolygon": true,
+    "nativeName": "Κύπρος",
+    "nativeLang": "el"
+  },
+  {
+    "cca2": "VA",
+    "cca3": "VAT",
+    "ccn3": "336",
+    "nameES": "Ciudad del Vaticano",
+    "nameEN": "Vatican City",
+    "capital": "Ciudad del Vaticano",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "area": 0.44,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Italiano",
+      "Latín"
+    ],
+    "demonym": "vaticano/a",
+    "latlng": [
+      41.9,
+      12.45
+    ],
+    "flagEmoji": "🇻🇦",
+    "hasPolygon": false,
+    "nativeName": "Vaticano",
+    "nativeLang": "it"
+  },
+  {
+    "cca2": "CO",
+    "cca3": "COL",
+    "ccn3": "170",
+    "nameES": "Colombia",
+    "nameEN": "Colombia",
+    "capital": "Bogotá",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 49648685,
+    "area": 1141748,
+    "currencies": [
+      {
+        "code": "COP",
+        "name": "Peso colombiano",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "colombiano/a",
+    "latlng": [
+      4,
+      -72
+    ],
+    "flagEmoji": "🇨🇴",
+    "hasPolygon": true,
+    "nativeName": "Colombia",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "KM",
+    "cca3": "COM",
+    "ccn3": "174",
+    "nameES": "Comoras",
+    "nameEN": "Comoros",
+    "capital": "Moroni",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 832322,
+    "area": 1862,
+    "currencies": [
+      {
+        "code": "KMF",
+        "name": "Franco comorense",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Francés",
+      "Comorian"
+    ],
+    "demonym": "Comoran",
+    "latlng": [
+      -12.16666666,
+      44.25
+    ],
+    "flagEmoji": "🇰🇲",
+    "hasPolygon": false,
+    "nativeName": "القمر‎",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "CG",
+    "cca3": "COG",
+    "ccn3": "178",
+    "nameES": "Congo",
+    "nameEN": "Republic of the Congo",
+    "capital": "Brazzaville",
+    "continent": "africa",
+    "subregion": "África Central",
+    "area": 342000,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Franco CFA de África Central",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés",
+      "Kikongo",
+      "Lingala"
+    ],
+    "demonym": "congoleño/a",
+    "latlng": [
+      -1,
+      15
+    ],
+    "flagEmoji": "🇨🇬",
+    "hasPolygon": true,
+    "nativeName": "République du Congo",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "CD",
+    "cca3": "COD",
+    "ccn3": "180",
+    "nameES": "Congo (Rep. Dem.)",
+    "nameEN": "DR Congo",
+    "capital": "Kinshasa",
+    "continent": "africa",
+    "subregion": "África Central",
+    "area": 2344858,
+    "currencies": [
+      {
+        "code": "CDF",
+        "name": "Congolese franc",
+        "symbol": "FC"
+      }
+    ],
+    "languages": [
+      "Francés",
+      "Kikongo",
+      "Lingala",
+      "Tshiluba",
+      "Suajili"
+    ],
+    "demonym": "congoleño/a",
+    "latlng": [
+      0,
+      25
+    ],
+    "flagEmoji": "🇨🇩",
+    "hasPolygon": true,
+    "nativeName": "RD Congo",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "KP",
+    "cca3": "PRK",
+    "ccn3": "408",
+    "nameES": "Corea del Norte",
+    "nameEN": "North Korea",
+    "capital": "Pionyang",
+    "continent": "asia",
+    "subregion": "Asia Oriental",
+    "population": 25549819,
+    "area": 120538,
+    "currencies": [
+      {
+        "code": "KPW",
+        "name": "North Korean won",
+        "symbol": "₩"
+      }
+    ],
+    "languages": [
+      "Coreano"
+    ],
+    "demonym": "norcoreano/a",
+    "latlng": [
+      40,
+      127
+    ],
+    "flagEmoji": "🇰🇵",
+    "hasPolygon": true,
+    "nativeName": "조선",
+    "nativeLang": "ko"
+  },
+  {
+    "cca2": "KR",
+    "cca3": "KOR",
+    "ccn3": "410",
+    "nameES": "Corea del Sur",
+    "nameEN": "South Korea",
+    "capital": "Seúl",
+    "continent": "asia",
+    "subregion": "Asia Oriental",
+    "population": 51606633,
+    "area": 100210,
+    "currencies": [
+      {
+        "code": "KRW",
+        "name": "Won surcoreano",
+        "symbol": "₩"
+      }
+    ],
+    "languages": [
+      "Coreano"
+    ],
+    "demonym": "surcoreano/a",
+    "latlng": [
+      37,
+      127.5
+    ],
+    "flagEmoji": "🇰🇷",
+    "hasPolygon": true,
+    "nativeName": "한국",
+    "nativeLang": "ko"
+  },
+  {
+    "cca2": "CI",
+    "cca3": "CIV",
+    "ccn3": "384",
+    "nameES": "Costa de Marfil",
+    "nameEN": "Ivory Coast",
+    "capital": "Yamusukro",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 25069229,
+    "area": 322463,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "Franco CFA de África Occidental",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "marfileño/a",
+    "latlng": [
+      8,
+      -5
+    ],
+    "flagEmoji": "🇨🇮",
+    "hasPolygon": true,
+    "nativeName": "Côte d'Ivoire",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "CR",
+    "cca3": "CRI",
+    "ccn3": "188",
+    "nameES": "Costa Rica",
+    "nameEN": "Costa Rica",
+    "capital": "San José",
+    "continent": "north-america",
+    "subregion": "Centroamérica",
+    "population": 4999441,
+    "area": 51100,
+    "currencies": [
+      {
+        "code": "CRC",
+        "name": "Colón costarricense",
+        "symbol": "₡"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "costarricense",
+    "latlng": [
+      10,
+      -84
+    ],
+    "flagEmoji": "🇨🇷",
+    "hasPolygon": true,
+    "nativeName": "Costa Rica",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "HR",
+    "cca3": "HRV",
+    "ccn3": "191",
+    "nameES": "Croacia",
+    "nameEN": "Croatia",
+    "capital": "Zagreb",
+    "continent": "europe",
+    "subregion": "Southeast Europe",
+    "population": 4087843,
+    "area": 56594,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Croata"
+    ],
+    "demonym": "croata",
+    "latlng": [
+      45.16666666,
+      15.5
+    ],
+    "flagEmoji": "🇭🇷",
+    "hasPolygon": true,
+    "nativeName": "Hrvatska",
+    "nativeLang": "hr"
+  },
+  {
+    "cca2": "CU",
+    "cca3": "CUB",
+    "ccn3": "192",
+    "nameES": "Cuba",
+    "nameEN": "Cuba",
+    "capital": "La Habana",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 11338138,
+    "area": 109884,
+    "currencies": [
+      {
+        "code": "CUC",
+        "name": "Peso convertible",
+        "symbol": "$"
+      },
+      {
+        "code": "CUP",
+        "name": "Peso cubano",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "cubano/a",
+    "latlng": [
+      21.5,
+      -80
+    ],
+    "flagEmoji": "🇨🇺",
+    "hasPolygon": true,
+    "nativeName": "Cuba",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "DK",
+    "cca3": "DNK",
+    "ccn3": "208",
+    "nameES": "Dinamarca",
+    "nameEN": "Denmark",
+    "capital": "Copenhague",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 5793636,
+    "area": 43094,
+    "currencies": [
+      {
+        "code": "DKK",
+        "name": "Corona danesa",
+        "symbol": "kr"
+      }
+    ],
+    "languages": [
+      "Danés"
+    ],
+    "demonym": "danés/a",
+    "latlng": [
+      56,
+      10
+    ],
+    "flagEmoji": "🇩🇰",
+    "hasPolygon": true,
+    "nativeName": "Danmark",
+    "nativeLang": "da"
+  },
+  {
+    "cca2": "DJ",
+    "cca3": "DJI",
+    "ccn3": "262",
+    "nameES": "Djibouti",
+    "nameEN": "Djibouti",
+    "capital": "Djibouti",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 958920,
+    "area": 23200,
+    "currencies": [
+      {
+        "code": "DJF",
+        "name": "Franco yibutí",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Francés"
+    ],
+    "demonym": "yibutiano/a",
+    "latlng": [
+      11.5,
+      43
+    ],
+    "flagEmoji": "🇩🇯",
+    "hasPolygon": true,
+    "nativeName": "جيبوتي‎",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "DM",
+    "cca3": "DMA",
+    "ccn3": "212",
+    "nameES": "Dominica",
+    "nameEN": "Dominica",
+    "capital": "Roseau",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 71625,
+    "area": 751,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Dólar del Caribe Oriental",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Dominican",
+    "latlng": [
+      15.41666666,
+      -61.33333333
+    ],
+    "flagEmoji": "🇩🇲",
+    "hasPolygon": false,
+    "nativeName": "Dominica",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "EC",
+    "cca3": "ECU",
+    "ccn3": "218",
+    "nameES": "Ecuador",
+    "nameEN": "Ecuador",
+    "capital": "Quito",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 17084357,
+    "area": 276841,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "ecuatoriano/a",
+    "latlng": [
+      -2,
+      -77.5
+    ],
+    "flagEmoji": "🇪🇨",
+    "hasPolygon": true,
+    "nativeName": "Ecuador",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "EG",
+    "cca3": "EGY",
+    "ccn3": "818",
+    "nameES": "Egipto",
+    "nameEN": "Egypt",
+    "capital": "El Cairo",
+    "continent": "africa",
+    "subregion": "África del Norte",
+    "population": 98423595,
+    "area": 1002450,
+    "currencies": [
+      {
+        "code": "EGP",
+        "name": "Libra egipcia",
+        "symbol": "£"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "egipcio/a",
+    "latlng": [
+      27,
+      30
+    ],
+    "flagEmoji": "🇪🇬",
+    "hasPolygon": true,
+    "nativeName": "مصر",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "SV",
+    "cca3": "SLV",
+    "ccn3": "222",
+    "nameES": "El Salvador",
+    "nameEN": "El Salvador",
+    "capital": "San Salvador",
+    "continent": "north-america",
+    "subregion": "Centroamérica",
+    "population": 6420744,
+    "area": 21041,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "salvadoreño/a",
+    "latlng": [
+      13.83333333,
+      -88.91666666
+    ],
+    "flagEmoji": "🇸🇻",
+    "hasPolygon": true,
+    "nativeName": "El Salvador",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "AE",
+    "cca3": "ARE",
+    "ccn3": "784",
+    "nameES": "Emiratos Árabes Unidos",
+    "nameEN": "United Arab Emirates",
+    "capital": "Abu Dabi",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 9630959,
+    "area": 83600,
+    "currencies": [
+      {
+        "code": "AED",
+        "name": "Dírham de los EAU",
+        "symbol": "د.إ"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "emiratí",
+    "latlng": [
+      24,
+      54
+    ],
+    "flagEmoji": "🇦🇪",
+    "hasPolygon": true,
+    "nativeName": "دولة الإمارات العربية المتحدة",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "ER",
+    "cca3": "ERI",
+    "ccn3": "232",
+    "nameES": "Eritrea",
+    "nameEN": "Eritrea",
+    "capital": "Asmara",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 6213972,
+    "area": 117600,
+    "currencies": [
+      {
+        "code": "ERN",
+        "name": "Nakfa",
+        "symbol": "Nfk"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Inglés",
+      "Tigrinya"
+    ],
+    "demonym": "eritreo/a",
+    "latlng": [
+      15,
+      39
+    ],
+    "flagEmoji": "🇪🇷",
+    "hasPolygon": true,
+    "nativeName": "إرتريا‎",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "SK",
+    "cca3": "SVK",
+    "ccn3": "703",
+    "nameES": "Eslovaquia",
+    "nameEN": "Slovakia",
+    "capital": "Bratislava",
+    "continent": "europe",
+    "subregion": "Central Europe",
+    "population": 5446771,
+    "area": 49037,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Eslovaco"
+    ],
+    "demonym": "eslovaco/a",
+    "latlng": [
+      48.66666666,
+      19.5
+    ],
+    "flagEmoji": "🇸🇰",
+    "hasPolygon": true,
+    "nativeName": "Slovensko",
+    "nativeLang": "sk"
+  },
+  {
+    "cca2": "SI",
+    "cca3": "SVN",
+    "ccn3": "705",
+    "nameES": "Eslovenia",
+    "nameEN": "Slovenia",
+    "capital": "Liubliana",
+    "continent": "europe",
+    "subregion": "Central Europe",
+    "population": 2073894,
+    "area": 20273,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Esloveno"
+    ],
+    "demonym": "esloveno/a",
+    "latlng": [
+      46.11666666,
+      14.81666666
+    ],
+    "flagEmoji": "🇸🇮",
+    "hasPolygon": true,
+    "nativeName": "Slovenija",
+    "nativeLang": "sl"
+  },
+  {
+    "cca2": "ES",
+    "cca3": "ESP",
+    "ccn3": "724",
+    "nameES": "España",
+    "nameEN": "Spain",
+    "capital": "Madrid",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "population": 46796540,
+    "area": 505992,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "español/a",
+    "latlng": [
+      40,
+      -4
+    ],
+    "flagEmoji": "🇪🇸",
+    "hasPolygon": true,
+    "nativeName": "España",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "US",
+    "cca3": "USA",
+    "ccn3": "840",
+    "nameES": "Estados Unidos",
+    "nameEN": "United States",
+    "capital": "Washington D. C.",
+    "continent": "north-america",
+    "subregion": "North America",
+    "population": 326687501,
+    "area": 9372610,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "estadounidense",
+    "latlng": [
+      38,
+      -97
+    ],
+    "flagEmoji": "🇺🇸",
+    "hasPolygon": true,
+    "nativeName": "United States",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "EE",
+    "cca3": "EST",
+    "ccn3": "233",
+    "nameES": "Estonia",
+    "nameEN": "Estonia",
+    "capital": "Tallinn",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 1321977,
+    "area": 45227,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Estonio"
+    ],
+    "demonym": "estonio/a",
+    "latlng": [
+      59,
+      26
+    ],
+    "flagEmoji": "🇪🇪",
+    "hasPolygon": true,
+    "nativeName": "Eesti",
+    "nativeLang": "et"
+  },
+  {
+    "cca2": "ET",
+    "cca3": "ETH",
+    "ccn3": "231",
+    "nameES": "Etiopía",
+    "nameEN": "Ethiopia",
+    "capital": "Addis Ababa",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 109224559,
+    "area": 1104300,
+    "currencies": [
+      {
+        "code": "ETB",
+        "name": "Birr",
+        "symbol": "Br"
+      }
+    ],
+    "languages": [
+      "Amárico"
+    ],
+    "demonym": "etíope",
+    "latlng": [
+      8,
+      38
+    ],
+    "flagEmoji": "🇪🇹",
+    "hasPolygon": true,
+    "nativeName": "ኢትዮጵያ",
+    "nativeLang": "am"
+  },
+  {
+    "cca2": "PH",
+    "cca3": "PHL",
+    "ccn3": "608",
+    "nameES": "Filipinas",
+    "nameEN": "Philippines",
+    "capital": "Manila",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 106651922,
+    "area": 342353,
+    "currencies": [
+      {
+        "code": "PHP",
+        "name": "Peso filipino",
+        "symbol": "₱"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Filipino"
+    ],
+    "demonym": "filipino/a",
+    "latlng": [
+      13,
+      122
+    ],
+    "flagEmoji": "🇵🇭",
+    "hasPolygon": true,
+    "nativeName": "Philippines",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "FI",
+    "cca3": "FIN",
+    "ccn3": "246",
+    "nameES": "Finlandia",
+    "nameEN": "Finland",
+    "capital": "Helsinki",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 5515525,
+    "area": 338424,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Finés",
+      "Sueco"
+    ],
+    "demonym": "finlandés/a",
+    "latlng": [
+      64,
+      26
+    ],
+    "flagEmoji": "🇫🇮",
+    "hasPolygon": true,
+    "nativeName": "Suomi",
+    "nativeLang": "fi"
+  },
+  {
+    "cca2": "FJ",
+    "cca3": "FJI",
+    "ccn3": "242",
+    "nameES": "Fiyi",
+    "nameEN": "Fiji",
+    "capital": "Suva",
+    "continent": "oceania",
+    "subregion": "Melanesia",
+    "area": 18272,
+    "currencies": [
+      {
+        "code": "FJD",
+        "name": "Dólar fiyiano",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Fijian",
+      "Fiji Hindi"
+    ],
+    "demonym": "fiyiano/a",
+    "latlng": [
+      -18,
+      175
+    ],
+    "flagEmoji": "🇫🇯",
+    "hasPolygon": true,
+    "nativeName": "Fiji",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "FR",
+    "cca3": "FRA",
+    "ccn3": "250",
+    "nameES": "Francia",
+    "nameEN": "France",
+    "capital": "París",
+    "continent": "europe",
+    "subregion": "Europa Occidental",
+    "population": 66977107,
+    "area": 551695,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "francés/a",
+    "latlng": [
+      46,
+      2
+    ],
+    "flagEmoji": "🇫🇷",
+    "hasPolygon": true,
+    "nativeName": "France",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "GA",
+    "cca3": "GAB",
+    "ccn3": "266",
+    "nameES": "Gabón",
+    "nameEN": "Gabon",
+    "capital": "Libreville",
+    "continent": "africa",
+    "subregion": "África Central",
+    "population": 2119275,
+    "area": 267668,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Franco CFA de África Central",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "gabonés/a",
+    "latlng": [
+      -1,
+      11.75
+    ],
+    "flagEmoji": "🇬🇦",
+    "hasPolygon": true,
+    "nativeName": "Gabon",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "GM",
+    "cca3": "GMB",
+    "ccn3": "270",
+    "nameES": "Gambia",
+    "nameEN": "Gambia",
+    "capital": "Banjul",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 2280102,
+    "area": 10689,
+    "currencies": [
+      {
+        "code": "GMD",
+        "name": "Dalasi",
+        "symbol": "D"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "gambiano/a",
+    "latlng": [
+      13.46666666,
+      -16.56666666
+    ],
+    "flagEmoji": "🇬🇲",
+    "hasPolygon": true,
+    "nativeName": "Gambia",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "GE",
+    "cca3": "GEO",
+    "ccn3": "268",
+    "nameES": "Georgia",
+    "nameEN": "Georgia",
+    "capital": "Tiflis",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 3726549,
+    "area": 69700,
+    "currencies": [
+      {
+        "code": "GEL",
+        "name": "Lari georgiano",
+        "symbol": "₾"
+      }
+    ],
+    "languages": [
+      "Georgiano"
+    ],
+    "demonym": "georgiano/a",
+    "latlng": [
+      42,
+      43.5
+    ],
+    "flagEmoji": "🇬🇪",
+    "hasPolygon": true,
+    "nativeName": "საქართველო",
+    "nativeLang": "ka"
+  },
+  {
+    "cca2": "GH",
+    "cca3": "GHA",
+    "ccn3": "288",
+    "nameES": "Ghana",
+    "nameEN": "Ghana",
+    "capital": "Accra",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 29767108,
+    "area": 238533,
+    "currencies": [
+      {
+        "code": "GHS",
+        "name": "Cedi ghanés",
+        "symbol": "₵"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "ghanés/a",
+    "latlng": [
+      8,
+      -2
+    ],
+    "flagEmoji": "🇬🇭",
+    "hasPolygon": true,
+    "nativeName": "Ghana",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "GR",
+    "cca3": "GRC",
+    "ccn3": "300",
+    "nameES": "Grecia",
+    "nameEN": "Greece",
+    "capital": "Atenas",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "population": 10731726,
+    "area": 131990,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Griego"
+    ],
+    "demonym": "griego/a",
+    "latlng": [
+      39,
+      22
+    ],
+    "flagEmoji": "🇬🇷",
+    "hasPolygon": true,
+    "nativeName": "Ελλάδα",
+    "nativeLang": "el"
+  },
+  {
+    "cca2": "GD",
+    "cca3": "GRD",
+    "ccn3": "308",
+    "nameES": "Grenada",
+    "nameEN": "Grenada",
+    "capital": "St. George's",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 111454,
+    "area": 344,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Dólar del Caribe Oriental",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Grenadian",
+    "latlng": [
+      12.11666666,
+      -61.66666666
+    ],
+    "flagEmoji": "🇬🇩",
+    "hasPolygon": false,
+    "nativeName": "Grenada",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "GT",
+    "cca3": "GTM",
+    "ccn3": "320",
+    "nameES": "Guatemala",
+    "nameEN": "Guatemala",
+    "capital": "Ciudad de Guatemala",
+    "continent": "north-america",
+    "subregion": "Centroamérica",
+    "population": 17247807,
+    "area": 108889,
+    "currencies": [
+      {
+        "code": "GTQ",
+        "name": "Quetzal",
+        "symbol": "Q"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "guatemalteco/a",
+    "latlng": [
+      15.5,
+      -90.25
+    ],
+    "flagEmoji": "🇬🇹",
+    "hasPolygon": true,
+    "nativeName": "Guatemala",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "GN",
+    "cca3": "GIN",
+    "ccn3": "324",
+    "nameES": "Guinea",
+    "nameEN": "Guinea",
+    "capital": "Conakry",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 12414318,
+    "area": 245857,
+    "currencies": [
+      {
+        "code": "GNF",
+        "name": "Franco guineano",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "guineano/a",
+    "latlng": [
+      11,
+      -10
+    ],
+    "flagEmoji": "🇬🇳",
+    "hasPolygon": true,
+    "nativeName": "Guinée",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "GQ",
+    "cca3": "GNQ",
+    "ccn3": "226",
+    "nameES": "Guinea Ecuatorial",
+    "nameEN": "Equatorial Guinea",
+    "capital": "Malabo",
+    "continent": "africa",
+    "subregion": "África Central",
+    "population": 1308974,
+    "area": 28051,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Franco CFA de África Central",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés",
+      "Portugués",
+      "Español"
+    ],
+    "demonym": "ecuatoguineano/a",
+    "latlng": [
+      2,
+      10
+    ],
+    "flagEmoji": "🇬🇶",
+    "hasPolygon": true,
+    "nativeName": "Guinée équatoriale",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "GW",
+    "cca3": "GNB",
+    "ccn3": "624",
+    "nameES": "Guinea-Bisáu",
+    "nameEN": "Guinea-Bissau",
+    "capital": "Bissau",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 1874309,
+    "area": 36125,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "Franco CFA de África Occidental",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Portugués",
+      "Upper Guinea Creole"
+    ],
+    "demonym": "guineano/a",
+    "latlng": [
+      12,
+      -15
+    ],
+    "flagEmoji": "🇬🇼",
+    "hasPolygon": true,
+    "nativeName": "Guiné-Bissau",
+    "nativeLang": "pt"
+  },
+  {
+    "cca2": "GY",
+    "cca3": "GUY",
+    "ccn3": "328",
+    "nameES": "Guyana",
+    "nameEN": "Guyana",
+    "capital": "Georgetown",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 779004,
+    "area": 214969,
+    "currencies": [
+      {
+        "code": "GYD",
+        "name": "Dólar guyanés",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Guyanese",
+    "latlng": [
+      5,
+      -59
+    ],
+    "flagEmoji": "🇬🇾",
+    "hasPolygon": true,
+    "nativeName": "Guyana",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "HT",
+    "cca3": "HTI",
+    "ccn3": "332",
+    "nameES": "Haití",
+    "nameEN": "Haiti",
+    "capital": "Puerto Príncipe",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 11123176,
+    "area": 27750,
+    "currencies": [
+      {
+        "code": "HTG",
+        "name": "Gourde haitiano",
+        "symbol": "G"
+      }
+    ],
+    "languages": [
+      "Francés",
+      "Haitian Creole"
+    ],
+    "demonym": "haitiano/a",
+    "latlng": [
+      19,
+      -72.41666666
+    ],
+    "flagEmoji": "🇭🇹",
+    "hasPolygon": true,
+    "nativeName": "Haïti",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "HN",
+    "cca3": "HND",
+    "ccn3": "340",
+    "nameES": "Honduras",
+    "nameEN": "Honduras",
+    "capital": "Tegucigalpa",
+    "continent": "north-america",
+    "subregion": "Centroamérica",
+    "population": 9587522,
+    "area": 112492,
+    "currencies": [
+      {
+        "code": "HNL",
+        "name": "Lempira",
+        "symbol": "L"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "hondureño/a",
+    "latlng": [
+      15,
+      -86.5
+    ],
+    "flagEmoji": "🇭🇳",
+    "hasPolygon": true,
+    "nativeName": "Honduras",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "HU",
+    "cca3": "HUN",
+    "ccn3": "348",
+    "nameES": "Hungría",
+    "nameEN": "Hungary",
+    "capital": "Budapest",
+    "continent": "europe",
+    "subregion": "Central Europe",
+    "population": 9775564,
+    "area": 93028,
+    "currencies": [
+      {
+        "code": "HUF",
+        "name": "Florín húngaro",
+        "symbol": "Ft"
+      }
+    ],
+    "languages": [
+      "Húngaro"
+    ],
+    "demonym": "húngaro/a",
+    "latlng": [
+      47,
+      20
+    ],
+    "flagEmoji": "🇭🇺",
+    "hasPolygon": true,
+    "nativeName": "Magyarország",
+    "nativeLang": "hu"
+  },
+  {
+    "cca2": "IN",
+    "cca3": "IND",
+    "ccn3": "356",
+    "nameES": "India",
+    "nameEN": "India",
+    "capital": "Nueva Delhi",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 1352617328,
+    "area": 3287590,
+    "currencies": [
+      {
+        "code": "INR",
+        "name": "Rupia india",
+        "symbol": "₹"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Hindi",
+      "Tamil"
+    ],
+    "demonym": "indio/a",
+    "latlng": [
+      20,
+      77
+    ],
+    "flagEmoji": "🇮🇳",
+    "hasPolygon": true,
+    "nativeName": "India",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "ID",
+    "cca3": "IDN",
+    "ccn3": "360",
+    "nameES": "Indonesia",
+    "nameEN": "Indonesia",
+    "capital": "Yakarta",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 267663435,
+    "area": 1904569,
+    "currencies": [
+      {
+        "code": "IDR",
+        "name": "Rupia indonesia",
+        "symbol": "Rp"
+      }
+    ],
+    "languages": [
+      "Indonesio"
+    ],
+    "demonym": "indonesio/a",
+    "latlng": [
+      -5,
+      120
+    ],
+    "flagEmoji": "🇮🇩",
+    "hasPolygon": true,
+    "nativeName": "Indonesia",
+    "nativeLang": "id"
+  },
+  {
+    "cca2": "IQ",
+    "cca3": "IRQ",
+    "ccn3": "368",
+    "nameES": "Irak",
+    "nameEN": "Iraq",
+    "capital": "Bagdad",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 38433600,
+    "area": 438317,
+    "currencies": [
+      {
+        "code": "IQD",
+        "name": "Dinar iraquí",
+        "symbol": "ع.د"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Aramaic",
+      "Sorani"
+    ],
+    "demonym": "iraquí",
+    "latlng": [
+      33,
+      44
+    ],
+    "flagEmoji": "🇮🇶",
+    "hasPolygon": true,
+    "nativeName": "العراق",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "IR",
+    "cca3": "IRN",
+    "ccn3": "364",
+    "nameES": "Iran",
+    "nameEN": "Iran",
+    "capital": "Teherán",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 81800269,
+    "area": 1648195,
+    "currencies": [
+      {
+        "code": "IRR",
+        "name": "Rial iraní",
+        "symbol": "﷼"
+      }
+    ],
+    "languages": [
+      "Persian (Farsi)"
+    ],
+    "demonym": "iraní",
+    "latlng": [
+      32,
+      53
+    ],
+    "flagEmoji": "🇮🇷",
+    "hasPolygon": true,
+    "nativeName": "ایران",
+    "nativeLang": "fa"
+  },
+  {
+    "cca2": "IE",
+    "cca3": "IRL",
+    "ccn3": "372",
+    "nameES": "Irlanda",
+    "nameEN": "Ireland",
+    "capital": "Dublin",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 4867309,
+    "area": 70273,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Irlandés"
+    ],
+    "demonym": "irlandés/a",
+    "latlng": [
+      53,
+      -8
+    ],
+    "flagEmoji": "🇮🇪",
+    "hasPolygon": true,
+    "nativeName": "Ireland",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "IS",
+    "cca3": "ISL",
+    "ccn3": "352",
+    "nameES": "Islandia",
+    "nameEN": "Iceland",
+    "capital": "Reikiavik",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 352721,
+    "area": 103000,
+    "currencies": [
+      {
+        "code": "ISK",
+        "name": "Corona islandesa",
+        "symbol": "kr"
+      }
+    ],
+    "languages": [
+      "Islandés"
+    ],
+    "demonym": "islandés/a",
+    "latlng": [
+      65,
+      -18
+    ],
+    "flagEmoji": "🇮🇸",
+    "hasPolygon": true,
+    "nativeName": "Ísland",
+    "nativeLang": "is"
+  },
+  {
+    "cca2": "MH",
+    "cca3": "MHL",
+    "ccn3": "584",
+    "nameES": "Islas Marshall",
+    "nameEN": "Marshall Islands",
+    "capital": "Majuro",
+    "continent": "oceania",
+    "subregion": "Micronesia",
+    "population": 58413,
+    "area": 181,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Marshallese"
+    ],
+    "demonym": "marshalés/a",
+    "latlng": [
+      9,
+      168
+    ],
+    "flagEmoji": "🇲🇭",
+    "hasPolygon": false,
+    "nativeName": "Marshall Islands",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "SB",
+    "cca3": "SLB",
+    "ccn3": "090",
+    "nameES": "Islas Salomón",
+    "nameEN": "Solomon Islands",
+    "capital": "Honiara",
+    "continent": "oceania",
+    "subregion": "Melanesia",
+    "population": 652858,
+    "area": 28896,
+    "currencies": [
+      {
+        "code": "SBD",
+        "name": "Dólar salomonense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Solomon Islander",
+    "latlng": [
+      -8,
+      159
+    ],
+    "flagEmoji": "🇸🇧",
+    "hasPolygon": true,
+    "nativeName": "Solomon Islands",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "IL",
+    "cca3": "ISR",
+    "ccn3": "376",
+    "nameES": "Israel",
+    "nameEN": "Israel",
+    "capital": "Jerusalén",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 8882800,
+    "area": 20770,
+    "currencies": [
+      {
+        "code": "ILS",
+        "name": "Nuevo séquel",
+        "symbol": "₪"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Hebreo"
+    ],
+    "demonym": "israelí",
+    "latlng": [
+      31.47,
+      35.13
+    ],
+    "flagEmoji": "🇮🇱",
+    "hasPolygon": true,
+    "nativeName": "ישראל",
+    "nativeLang": "he"
+  },
+  {
+    "cca2": "IT",
+    "cca3": "ITA",
+    "ccn3": "380",
+    "nameES": "Italia",
+    "nameEN": "Italy",
+    "capital": "Rome",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "population": 60421760,
+    "area": 301336,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Italiano"
+    ],
+    "demonym": "italiano/a",
+    "latlng": [
+      42.83333333,
+      12.83333333
+    ],
+    "flagEmoji": "🇮🇹",
+    "hasPolygon": true,
+    "nativeName": "Italia",
+    "nativeLang": "it"
+  },
+  {
+    "cca2": "JM",
+    "cca3": "JAM",
+    "ccn3": "388",
+    "nameES": "Jamaica",
+    "nameEN": "Jamaica",
+    "capital": "Kingston",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 2934855,
+    "area": 10991,
+    "currencies": [
+      {
+        "code": "JMD",
+        "name": "Dólar jamaiquino",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Jamaican Patois"
+    ],
+    "demonym": "jamaiquino/a",
+    "latlng": [
+      18.25,
+      -77.5
+    ],
+    "flagEmoji": "🇯🇲",
+    "hasPolygon": true,
+    "nativeName": "Jamaica",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "JP",
+    "cca3": "JPN",
+    "ccn3": "392",
+    "nameES": "Japón",
+    "nameEN": "Japan",
+    "capital": "Tokyo",
+    "continent": "asia",
+    "subregion": "Asia Oriental",
+    "population": 126529100,
+    "area": 377930,
+    "currencies": [
+      {
+        "code": "JPY",
+        "name": "Yen japonés",
+        "symbol": "¥"
+      }
+    ],
+    "languages": [
+      "Japonés"
+    ],
+    "demonym": "japonés/a",
+    "latlng": [
+      36,
+      138
+    ],
+    "flagEmoji": "🇯🇵",
+    "hasPolygon": true,
+    "nativeName": "日本",
+    "nativeLang": "ja"
+  },
+  {
+    "cca2": "JO",
+    "cca3": "JOR",
+    "ccn3": "400",
+    "nameES": "Jordania",
+    "nameEN": "Jordan",
+    "capital": "Amán",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 9956011,
+    "area": 89342,
+    "currencies": [
+      {
+        "code": "JOD",
+        "name": "Dinar jordano",
+        "symbol": "د.ا"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "jordano/a",
+    "latlng": [
+      31,
+      36
+    ],
+    "flagEmoji": "🇯🇴",
+    "hasPolygon": true,
+    "nativeName": "الأردن",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "KZ",
+    "cca3": "KAZ",
+    "ccn3": "398",
+    "nameES": "Kazajistán",
+    "nameEN": "Kazakhstan",
+    "capital": "Astaná",
+    "continent": "asia",
+    "subregion": "Asia Central",
+    "population": 18272430,
+    "area": 2724900,
+    "currencies": [
+      {
+        "code": "KZT",
+        "name": "Tenge kazajo",
+        "symbol": "₸"
+      }
+    ],
+    "languages": [
+      "Kazajo",
+      "Ruso"
+    ],
+    "demonym": "kazajo/a",
+    "latlng": [
+      48,
+      68
+    ],
+    "flagEmoji": "🇰🇿",
+    "hasPolygon": true,
+    "nativeName": "Қазақстан",
+    "nativeLang": "kk"
+  },
+  {
+    "cca2": "KE",
+    "cca3": "KEN",
+    "ccn3": "404",
+    "nameES": "Kenia",
+    "nameEN": "Kenya",
+    "capital": "Nairobi",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 51393010,
+    "area": 580367,
+    "currencies": [
+      {
+        "code": "KES",
+        "name": "Chelín keniano",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Suajili"
+    ],
+    "demonym": "keniano/a",
+    "latlng": [
+      1,
+      38
+    ],
+    "flagEmoji": "🇰🇪",
+    "hasPolygon": true,
+    "nativeName": "Kenya",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "KG",
+    "cca3": "KGZ",
+    "ccn3": "417",
+    "nameES": "Kirguizistán",
+    "nameEN": "Kyrgyzstan",
+    "capital": "Bishkek",
+    "continent": "asia",
+    "subregion": "Asia Central",
+    "population": 6322800,
+    "area": 199951,
+    "currencies": [
+      {
+        "code": "KGS",
+        "name": "Som kirguís",
+        "symbol": "с"
+      }
+    ],
+    "languages": [
+      "Kyrgyz",
+      "Ruso"
+    ],
+    "demonym": "kirguís",
+    "latlng": [
+      41,
+      75
+    ],
+    "flagEmoji": "🇰🇬",
+    "hasPolygon": true,
+    "nativeName": "Кыргызстан",
+    "nativeLang": "ky"
+  },
+  {
+    "cca2": "KI",
+    "cca3": "KIR",
+    "ccn3": "296",
+    "nameES": "Kiribati",
+    "nameEN": "Kiribati",
+    "capital": "South Tarawa",
+    "continent": "oceania",
+    "subregion": "Micronesia",
+    "population": 115847,
+    "area": 811,
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Dólar australiano",
+        "symbol": "$"
+      },
+      {
+        "code": "KID",
+        "name": "Kiribati dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Gilbertés"
+    ],
+    "demonym": "kiribatiano/a",
+    "latlng": [
+      1.41666666,
+      173
+    ],
+    "flagEmoji": "🇰🇮",
+    "hasPolygon": false,
+    "nativeName": "Kiribati",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "KW",
+    "cca3": "KWT",
+    "ccn3": "414",
+    "nameES": "Kuwait",
+    "nameEN": "Kuwait",
+    "capital": "Ciudad de Kuwait",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 4137309,
+    "area": 17818,
+    "currencies": [
+      {
+        "code": "KWD",
+        "name": "Dinar kuwaití",
+        "symbol": "د.ك"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "kuwaití",
+    "latlng": [
+      29.5,
+      45.75
+    ],
+    "flagEmoji": "🇰🇼",
+    "hasPolygon": true,
+    "nativeName": "الكويت",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "LA",
+    "cca3": "LAO",
+    "ccn3": "418",
+    "nameES": "Laos",
+    "nameEN": "Laos",
+    "capital": "Vientiane",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 7061507,
+    "area": 236800,
+    "currencies": [
+      {
+        "code": "LAK",
+        "name": "Kip lao",
+        "symbol": "₭"
+      }
+    ],
+    "languages": [
+      "Lao"
+    ],
+    "demonym": "laosiano/a",
+    "latlng": [
+      18,
+      105
+    ],
+    "flagEmoji": "🇱🇦",
+    "hasPolygon": true,
+    "nativeName": "ສປປລາວ",
+    "nativeLang": "lo"
+  },
+  {
+    "cca2": "LS",
+    "cca3": "LSO",
+    "ccn3": "426",
+    "nameES": "Lesotho",
+    "nameEN": "Lesotho",
+    "capital": "Maseru",
+    "continent": "africa",
+    "subregion": "África Austral",
+    "population": 2108132,
+    "area": 30355,
+    "currencies": [
+      {
+        "code": "LSL",
+        "name": "Lesotho loti",
+        "symbol": "L"
+      },
+      {
+        "code": "ZAR",
+        "name": "Rand sudafricano",
+        "symbol": "R"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Sotho"
+    ],
+    "demonym": "Mosotho",
+    "latlng": [
+      -29.5,
+      28.5
+    ],
+    "flagEmoji": "🇱🇸",
+    "hasPolygon": true,
+    "nativeName": "Lesotho",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "LV",
+    "cca3": "LVA",
+    "ccn3": "428",
+    "nameES": "Letonia",
+    "nameEN": "Latvia",
+    "capital": "Riga",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 1927174,
+    "area": 64559,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Letón"
+    ],
+    "demonym": "letón/ona",
+    "latlng": [
+      57,
+      25
+    ],
+    "flagEmoji": "🇱🇻",
+    "hasPolygon": true,
+    "nativeName": "Latvija",
+    "nativeLang": "lv"
+  },
+  {
+    "cca2": "LB",
+    "cca3": "LBN",
+    "ccn3": "422",
+    "nameES": "Líbano",
+    "nameEN": "Lebanon",
+    "capital": "Beirut",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 6848925,
+    "area": 10452,
+    "currencies": [
+      {
+        "code": "LBP",
+        "name": "Libra libanesa",
+        "symbol": "ل.ل"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Francés"
+    ],
+    "demonym": "libanés/a",
+    "latlng": [
+      33.83333333,
+      35.83333333
+    ],
+    "flagEmoji": "🇱🇧",
+    "hasPolygon": true,
+    "nativeName": "لبنان",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "LR",
+    "cca3": "LBR",
+    "ccn3": "430",
+    "nameES": "Liberia",
+    "nameEN": "Liberia",
+    "capital": "Monrovia",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 4818977,
+    "area": 111369,
+    "currencies": [
+      {
+        "code": "LRD",
+        "name": "Dólar liberiano",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "liberiano/a",
+    "latlng": [
+      6.5,
+      -9.5
+    ],
+    "flagEmoji": "🇱🇷",
+    "hasPolygon": true,
+    "nativeName": "Liberia",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "LY",
+    "cca3": "LBY",
+    "ccn3": "434",
+    "nameES": "Libia",
+    "nameEN": "Libya",
+    "capital": "Trípoli",
+    "continent": "africa",
+    "subregion": "África del Norte",
+    "population": 6678567,
+    "area": 1759540,
+    "currencies": [
+      {
+        "code": "LYD",
+        "name": "Dinar libio",
+        "symbol": "ل.د"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "libio/a",
+    "latlng": [
+      25,
+      17
+    ],
+    "flagEmoji": "🇱🇾",
+    "hasPolygon": true,
+    "nativeName": "‏ليبيا",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "LI",
+    "cca3": "LIE",
+    "ccn3": "438",
+    "nameES": "Liechtenstein",
+    "nameEN": "Liechtenstein",
+    "capital": "Vaduz",
+    "continent": "europe",
+    "subregion": "Europa Occidental",
+    "population": 37910,
+    "area": 160,
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Franco suizo",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Alemán"
+    ],
+    "demonym": "liechtensteiniano/a",
+    "latlng": [
+      47.26666666,
+      9.53333333
+    ],
+    "flagEmoji": "🇱🇮",
+    "hasPolygon": false,
+    "nativeName": "Liechtenstein",
+    "nativeLang": "de"
+  },
+  {
+    "cca2": "LT",
+    "cca3": "LTU",
+    "ccn3": "440",
+    "nameES": "Lituania",
+    "nameEN": "Lithuania",
+    "capital": "Vilna",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 2801543,
+    "area": 65300,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Lituano"
+    ],
+    "demonym": "lituano/a",
+    "latlng": [
+      56,
+      24
+    ],
+    "flagEmoji": "🇱🇹",
+    "hasPolygon": true,
+    "nativeName": "Lietuva",
+    "nativeLang": "lt"
+  },
+  {
+    "cca2": "LU",
+    "cca3": "LUX",
+    "ccn3": "442",
+    "nameES": "Luxemburgo",
+    "nameEN": "Luxembourg",
+    "capital": "Luxembourg",
+    "continent": "europe",
+    "subregion": "Europa Occidental",
+    "population": 607950,
+    "area": 2586,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Alemán",
+      "Francés",
+      "Luxembourgish"
+    ],
+    "demonym": "Luxembourger",
+    "latlng": [
+      49.75,
+      6.16666666
+    ],
+    "flagEmoji": "🇱🇺",
+    "hasPolygon": true,
+    "nativeName": "Luxemburg",
+    "nativeLang": "de"
+  },
+  {
+    "cca2": "MK",
+    "cca3": "MKD",
+    "ccn3": "807",
+    "nameES": "Macedonia del Norte",
+    "nameEN": "North Macedonia",
+    "capital": "Skopje",
+    "continent": "europe",
+    "subregion": "Southeast Europe",
+    "population": 2084367,
+    "area": 25713,
+    "currencies": [
+      {
+        "code": "MKD",
+        "name": "Denar macedonio",
+        "symbol": "den"
+      }
+    ],
+    "languages": [
+      "Macedonio"
+    ],
+    "demonym": "macedonio/a",
+    "latlng": [
+      41.83333333,
+      22
+    ],
+    "flagEmoji": "🇲🇰",
+    "hasPolygon": true,
+    "nativeName": "Македонија",
+    "nativeLang": "mk"
+  },
+  {
+    "cca2": "MG",
+    "cca3": "MDG",
+    "ccn3": "450",
+    "nameES": "Madagascar",
+    "nameEN": "Madagascar",
+    "capital": "Antananarivo",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 26262368,
+    "area": 587041,
+    "currencies": [
+      {
+        "code": "MGA",
+        "name": "Ariary malgache",
+        "symbol": "Ar"
+      }
+    ],
+    "languages": [
+      "Francés",
+      "Malagasy"
+    ],
+    "demonym": "malgache",
+    "latlng": [
+      -20,
+      47
+    ],
+    "flagEmoji": "🇲🇬",
+    "hasPolygon": true,
+    "nativeName": "Madagascar",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "MY",
+    "cca3": "MYS",
+    "ccn3": "458",
+    "nameES": "Malasia",
+    "nameEN": "Malaysia",
+    "capital": "Kuala Lumpur",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 31528585,
+    "area": 330803,
+    "currencies": [
+      {
+        "code": "MYR",
+        "name": "Ringgit malayo",
+        "symbol": "RM"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Malayo"
+    ],
+    "demonym": "malasio/a",
+    "latlng": [
+      2.5,
+      112.5
+    ],
+    "flagEmoji": "🇲🇾",
+    "hasPolygon": true,
+    "nativeName": "Malaysia",
+    "nativeLang": "ms"
+  },
+  {
+    "cca2": "MW",
+    "cca3": "MWI",
+    "ccn3": "454",
+    "nameES": "Malawi",
+    "nameEN": "Malawi",
+    "capital": "Lilongwe",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 18143315,
+    "area": 118484,
+    "currencies": [
+      {
+        "code": "MWK",
+        "name": "Kwacha malauí",
+        "symbol": "MK"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Chewa"
+    ],
+    "demonym": "malauí",
+    "latlng": [
+      -13.5,
+      34
+    ],
+    "flagEmoji": "🇲🇼",
+    "hasPolygon": true,
+    "nativeName": "Malawi",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "MV",
+    "cca3": "MDV",
+    "ccn3": "462",
+    "nameES": "Maldivas",
+    "nameEN": "Maldives",
+    "capital": "Malé",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 515696,
+    "area": 300,
+    "currencies": [
+      {
+        "code": "MVR",
+        "name": "Rufiyaa",
+        "symbol": ".ރ"
+      }
+    ],
+    "languages": [
+      "Maldivian"
+    ],
+    "demonym": "maldivo/a",
+    "latlng": [
+      3.25,
+      73
+    ],
+    "flagEmoji": "🇲🇻",
+    "hasPolygon": false,
+    "nativeName": "Maldives",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "ML",
+    "cca3": "MLI",
+    "ccn3": "466",
+    "nameES": "Mali",
+    "nameEN": "Mali",
+    "capital": "Bamako",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 19077690,
+    "area": 1240192,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "Franco CFA de África Occidental",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "maliense",
+    "latlng": [
+      17,
+      -4
+    ],
+    "flagEmoji": "🇲🇱",
+    "hasPolygon": true,
+    "nativeName": "Mali",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "MT",
+    "cca3": "MLT",
+    "ccn3": "470",
+    "nameES": "Malta",
+    "nameEN": "Malta",
+    "capital": "La Valeta",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "population": 484630,
+    "area": 316,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Maltese"
+    ],
+    "demonym": "maltés/a",
+    "latlng": [
+      35.83333333,
+      14.58333333
+    ],
+    "flagEmoji": "🇲🇹",
+    "hasPolygon": false,
+    "nativeName": "Malta",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "MA",
+    "cca3": "MAR",
+    "ccn3": "504",
+    "nameES": "Marruecos",
+    "nameEN": "Morocco",
+    "capital": "Rabat",
+    "continent": "africa",
+    "subregion": "África del Norte",
+    "population": 36029138,
+    "area": 446550,
+    "currencies": [
+      {
+        "code": "MAD",
+        "name": "Dírham marroquí",
+        "symbol": "د.م."
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Berber"
+    ],
+    "demonym": "marroquí",
+    "latlng": [
+      32,
+      -5
+    ],
+    "flagEmoji": "🇲🇦",
+    "hasPolygon": true,
+    "nativeName": "المغرب",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "MU",
+    "cca3": "MUS",
+    "ccn3": "480",
+    "nameES": "Mauricio",
+    "nameEN": "Mauritius",
+    "capital": "Port Louis",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 1265303,
+    "area": 2040,
+    "currencies": [
+      {
+        "code": "MUR",
+        "name": "Rupia mauriciana",
+        "symbol": "₨"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Francés",
+      "Criollo mauriciano"
+    ],
+    "demonym": "mauriciano/a",
+    "latlng": [
+      -20.28333333,
+      57.55
+    ],
+    "flagEmoji": "🇲🇺",
+    "hasPolygon": false,
+    "nativeName": "Mauritius",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "MR",
+    "cca3": "MRT",
+    "ccn3": "478",
+    "nameES": "Mauritania",
+    "nameEN": "Mauritania",
+    "capital": "Nouakchott",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 4403319,
+    "area": 1030700,
+    "currencies": [
+      {
+        "code": "MRU",
+        "name": "Uguia",
+        "symbol": "UM"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "mauritano/a",
+    "latlng": [
+      20,
+      -12
+    ],
+    "flagEmoji": "🇲🇷",
+    "hasPolygon": true,
+    "nativeName": "موريتانيا",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "MX",
+    "cca3": "MEX",
+    "ccn3": "484",
+    "nameES": "México",
+    "nameEN": "Mexico",
+    "capital": "Ciudad de México",
+    "continent": "north-america",
+    "subregion": "North America",
+    "population": 126190788,
+    "area": 1964375,
+    "currencies": [
+      {
+        "code": "MXN",
+        "name": "Peso mexicano",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "mexicano/a",
+    "latlng": [
+      23,
+      -102
+    ],
+    "flagEmoji": "🇲🇽",
+    "hasPolygon": true,
+    "nativeName": "México",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "FM",
+    "cca3": "FSM",
+    "ccn3": "583",
+    "nameES": "Micronesia",
+    "nameEN": "Micronesia",
+    "capital": "Palikir",
+    "continent": "oceania",
+    "subregion": "Micronesia",
+    "area": 702,
+    "currencies": [],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "micronesio/a",
+    "latlng": [
+      6.91666666,
+      158.25
+    ],
+    "flagEmoji": "🇫🇲",
+    "hasPolygon": false,
+    "nativeName": "Micronesia",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "MD",
+    "cca3": "MDA",
+    "ccn3": "498",
+    "nameES": "Moldavia",
+    "nameEN": "Moldova",
+    "capital": "Chisináu",
+    "continent": "europe",
+    "subregion": "Europa Oriental",
+    "population": 2706049,
+    "area": 33846,
+    "currencies": [
+      {
+        "code": "MDL",
+        "name": "Leu moldavo",
+        "symbol": "L"
+      }
+    ],
+    "languages": [
+      "Rumano"
+    ],
+    "demonym": "moldavo/a",
+    "latlng": [
+      47,
+      29
+    ],
+    "flagEmoji": "🇲🇩",
+    "hasPolygon": true,
+    "nativeName": "Moldova",
+    "nativeLang": "ro"
+  },
+  {
+    "cca2": "MC",
+    "cca3": "MCO",
+    "ccn3": "492",
+    "nameES": "Mónaco",
+    "nameEN": "Monaco",
+    "capital": "Monaco",
+    "continent": "europe",
+    "subregion": "Europa Occidental",
+    "population": 38682,
+    "area": 2.02,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "monegasco/a",
+    "latlng": [
+      43.73333333,
+      7.4
+    ],
+    "flagEmoji": "🇲🇨",
+    "hasPolygon": false,
+    "nativeName": "Monaco",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "MN",
+    "cca3": "MNG",
+    "ccn3": "496",
+    "nameES": "Mongolia",
+    "nameEN": "Mongolia",
+    "capital": "Ulan Bator",
+    "continent": "asia",
+    "subregion": "Asia Oriental",
+    "population": 3170208,
+    "area": 1564110,
+    "currencies": [
+      {
+        "code": "MNT",
+        "name": "Tugrik mongol",
+        "symbol": "₮"
+      }
+    ],
+    "languages": [
+      "Mongolian"
+    ],
+    "demonym": "mongol/a",
+    "latlng": [
+      46,
+      105
+    ],
+    "flagEmoji": "🇲🇳",
+    "hasPolygon": true,
+    "nativeName": "Монгол улс",
+    "nativeLang": "mn"
+  },
+  {
+    "cca2": "ME",
+    "cca3": "MNE",
+    "ccn3": "499",
+    "nameES": "Montenegro",
+    "nameEN": "Montenegro",
+    "capital": "Podgorica",
+    "continent": "europe",
+    "subregion": "Southeast Europe",
+    "population": 631219,
+    "area": 13812,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Montenegrin"
+    ],
+    "demonym": "montenegrino/a",
+    "latlng": [
+      42.5,
+      19.3
+    ],
+    "flagEmoji": "🇲🇪",
+    "hasPolygon": true,
+    "nativeName": "Црна Гора",
+    "nativeLang": "sr"
+  },
+  {
+    "cca2": "MZ",
+    "cca3": "MOZ",
+    "ccn3": "508",
+    "nameES": "Mozambique",
+    "nameEN": "Mozambique",
+    "capital": "Maputo",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 29495962,
+    "area": 801590,
+    "currencies": [
+      {
+        "code": "MZN",
+        "name": "Metical",
+        "symbol": "MT"
+      }
+    ],
+    "languages": [
+      "Portugués"
+    ],
+    "demonym": "mozambiqueño/a",
+    "latlng": [
+      -18.25,
+      35
+    ],
+    "flagEmoji": "🇲🇿",
+    "hasPolygon": true,
+    "nativeName": "Moçambique",
+    "nativeLang": "pt"
+  },
+  {
+    "cca2": "MM",
+    "cca3": "MMR",
+    "ccn3": "104",
+    "nameES": "Myanmar",
+    "nameEN": "Myanmar",
+    "capital": "Naipyidó",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "area": 676578,
+    "currencies": [
+      {
+        "code": "MMK",
+        "name": "Burmese kyat",
+        "symbol": "Ks"
+      }
+    ],
+    "languages": [
+      "Birmano"
+    ],
+    "demonym": "birmano/a",
+    "latlng": [
+      22,
+      98
+    ],
+    "flagEmoji": "🇲🇲",
+    "hasPolygon": true,
+    "nativeName": "မြန်မာ",
+    "nativeLang": "my"
+  },
+  {
+    "cca2": "NA",
+    "cca3": "NAM",
+    "ccn3": "516",
+    "nameES": "Namibia",
+    "nameEN": "Namibia",
+    "capital": "Windhoek",
+    "continent": "africa",
+    "subregion": "África Austral",
+    "population": 2448255,
+    "area": 825615,
+    "currencies": [
+      {
+        "code": "NAD",
+        "name": "Dólar namibio",
+        "symbol": "$"
+      },
+      {
+        "code": "ZAR",
+        "name": "Rand sudafricano",
+        "symbol": "R"
+      }
+    ],
+    "languages": [
+      "Afrikáans",
+      "Alemán",
+      "Inglés",
+      "Herero",
+      "Khoekhoe",
+      "Kwangali",
+      "Lozi",
+      "Ndonga",
+      "Tswana"
+    ],
+    "demonym": "namibio/a",
+    "latlng": [
+      -22,
+      17
+    ],
+    "flagEmoji": "🇳🇦",
+    "hasPolygon": true,
+    "nativeName": "Namibia",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "NR",
+    "cca3": "NRU",
+    "ccn3": "520",
+    "nameES": "Nauru",
+    "nameEN": "Nauru",
+    "capital": "Yaren",
+    "continent": "oceania",
+    "subregion": "Micronesia",
+    "population": 12704,
+    "area": 21,
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Dólar australiano",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Nauru"
+    ],
+    "demonym": "nauruano/a",
+    "latlng": [
+      -0.53333333,
+      166.91666666
+    ],
+    "flagEmoji": "🇳🇷",
+    "hasPolygon": false,
+    "nativeName": "Nauru",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "NP",
+    "cca3": "NPL",
+    "ccn3": "524",
+    "nameES": "Nepal",
+    "nameEN": "Nepal",
+    "capital": "Katmandú",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 28087871,
+    "area": 147181,
+    "currencies": [
+      {
+        "code": "NPR",
+        "name": "Rupia nepalí",
+        "symbol": "₨"
+      }
+    ],
+    "languages": [
+      "Nepalí"
+    ],
+    "demonym": "nepalí",
+    "latlng": [
+      28,
+      84
+    ],
+    "flagEmoji": "🇳🇵",
+    "hasPolygon": true,
+    "nativeName": "नेपाल",
+    "nativeLang": "ne"
+  },
+  {
+    "cca2": "NI",
+    "cca3": "NIC",
+    "ccn3": "558",
+    "nameES": "Nicaragua",
+    "nameEN": "Nicaragua",
+    "capital": "Managua",
+    "continent": "north-america",
+    "subregion": "Centroamérica",
+    "population": 6465513,
+    "area": 130373,
+    "currencies": [
+      {
+        "code": "NIO",
+        "name": "Córdoba",
+        "symbol": "C$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "nicaragüense",
+    "latlng": [
+      13,
+      -85
+    ],
+    "flagEmoji": "🇳🇮",
+    "hasPolygon": true,
+    "nativeName": "Nicaragua",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "NE",
+    "cca3": "NER",
+    "ccn3": "562",
+    "nameES": "Níger",
+    "nameEN": "Niger",
+    "capital": "Niamey",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 22442948,
+    "area": 1267000,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "Franco CFA de África Occidental",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "nigerino/a",
+    "latlng": [
+      16,
+      8
+    ],
+    "flagEmoji": "🇳🇪",
+    "hasPolygon": true,
+    "nativeName": "Niger",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "NG",
+    "cca3": "NGA",
+    "ccn3": "566",
+    "nameES": "Nigeria",
+    "nameEN": "Nigeria",
+    "capital": "Abuja",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 195874740,
+    "area": 923768,
+    "currencies": [
+      {
+        "code": "NGN",
+        "name": "Naira nigeriana",
+        "symbol": "₦"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "nigeriano/a",
+    "latlng": [
+      10,
+      8
+    ],
+    "flagEmoji": "🇳🇬",
+    "hasPolygon": true,
+    "nativeName": "Nigeria",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "NO",
+    "cca3": "NOR",
+    "ccn3": "578",
+    "nameES": "Noruega",
+    "nameEN": "Norway",
+    "capital": "Oslo",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 5311916,
+    "area": 323802,
+    "currencies": [
+      {
+        "code": "NOK",
+        "name": "Corona noruega",
+        "symbol": "kr"
+      }
+    ],
+    "languages": [
+      "Norwegian Nynorsk",
+      "Norwegian Bokmål",
+      "Sami"
+    ],
+    "demonym": "noruego/a",
+    "latlng": [
+      62,
+      10
+    ],
+    "flagEmoji": "🇳🇴",
+    "hasPolygon": true,
+    "nativeName": "Noreg",
+    "nativeLang": "no"
+  },
+  {
+    "cca2": "NZ",
+    "cca3": "NZL",
+    "ccn3": "554",
+    "nameES": "Nueva Zelanda",
+    "nameEN": "New Zealand",
+    "capital": "Wellington",
+    "continent": "oceania",
+    "subregion": "Australia y Nueva Zelanda",
+    "population": 4841000,
+    "area": 270467,
+    "currencies": [
+      {
+        "code": "NZD",
+        "name": "Dólar neozelandés",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Māori",
+      "New Zealand Sign Language"
+    ],
+    "demonym": "neozelandés/a",
+    "latlng": [
+      -41,
+      174
+    ],
+    "flagEmoji": "🇳🇿",
+    "hasPolygon": true,
+    "nativeName": "New Zealand",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "OM",
+    "cca3": "OMN",
+    "ccn3": "512",
+    "nameES": "Omán",
+    "nameEN": "Oman",
+    "capital": "Mascate",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 4829483,
+    "area": 309500,
+    "currencies": [
+      {
+        "code": "OMR",
+        "name": "Rial omaní",
+        "symbol": "ر.ع."
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "omaní",
+    "latlng": [
+      21,
+      57
+    ],
+    "flagEmoji": "🇴🇲",
+    "hasPolygon": true,
+    "nativeName": "عمان",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "NL",
+    "cca3": "NLD",
+    "ccn3": "528",
+    "nameES": "Países Bajos",
+    "nameEN": "Netherlands",
+    "capital": "Ámsterdam",
+    "continent": "europe",
+    "subregion": "Europa Occidental",
+    "population": 17231624,
+    "area": 41850,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Neerlandés"
+    ],
+    "demonym": "neerlandés/a",
+    "latlng": [
+      52.5,
+      5.75
+    ],
+    "flagEmoji": "🇳🇱",
+    "hasPolygon": true,
+    "nativeName": "Nederland",
+    "nativeLang": "nl"
+  },
+  {
+    "cca2": "PK",
+    "cca3": "PAK",
+    "ccn3": "586",
+    "nameES": "Pakistán",
+    "nameEN": "Pakistan",
+    "capital": "Islamabad",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 212215030,
+    "area": 881912,
+    "currencies": [
+      {
+        "code": "PKR",
+        "name": "Rupia pakistaní",
+        "symbol": "₨"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Urdu"
+    ],
+    "demonym": "pakistaní",
+    "latlng": [
+      30,
+      70
+    ],
+    "flagEmoji": "🇵🇰",
+    "hasPolygon": true,
+    "nativeName": "Pakistan",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "PW",
+    "cca3": "PLW",
+    "ccn3": "585",
+    "nameES": "Palau",
+    "nameEN": "Palau",
+    "capital": "Ngerulmud",
+    "continent": "oceania",
+    "subregion": "Micronesia",
+    "population": 17907,
+    "area": 459,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Palauano"
+    ],
+    "demonym": "palauano/a",
+    "latlng": [
+      7.5,
+      134.5
+    ],
+    "flagEmoji": "🇵🇼",
+    "hasPolygon": false,
+    "nativeName": "Palau",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "PA",
+    "cca3": "PAN",
+    "ccn3": "591",
+    "nameES": "Panamá",
+    "nameEN": "Panama",
+    "capital": "Ciudad de Panamá",
+    "continent": "north-america",
+    "subregion": "Centroamérica",
+    "population": 4176873,
+    "area": 75417,
+    "currencies": [
+      {
+        "code": "PAB",
+        "name": "Balboa",
+        "symbol": "B/."
+      },
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "panameño/a",
+    "latlng": [
+      9,
+      -80
+    ],
+    "flagEmoji": "🇵🇦",
+    "hasPolygon": true,
+    "nativeName": "Panamá",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "PG",
+    "cca3": "PNG",
+    "ccn3": "598",
+    "nameES": "Papúa Nueva Guinea",
+    "nameEN": "Papua New Guinea",
+    "capital": "Port Moresby",
+    "continent": "oceania",
+    "subregion": "Melanesia",
+    "population": 8606316,
+    "area": 462840,
+    "currencies": [
+      {
+        "code": "PGK",
+        "name": "Kina de Papúa Nueva Guinea",
+        "symbol": "K"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Hiri Motu",
+      "Tok Pisin"
+    ],
+    "demonym": "papú",
+    "latlng": [
+      -6,
+      147
+    ],
+    "flagEmoji": "🇵🇬",
+    "hasPolygon": true,
+    "nativeName": "Papua New Guinea",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "PY",
+    "cca3": "PRY",
+    "ccn3": "600",
+    "nameES": "Paraguay",
+    "nameEN": "Paraguay",
+    "capital": "Asunción",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 6956071,
+    "area": 406752,
+    "currencies": [
+      {
+        "code": "PYG",
+        "name": "Guaraní",
+        "symbol": "₲"
+      }
+    ],
+    "languages": [
+      "Guaraní",
+      "Español"
+    ],
+    "demonym": "paraguayo/a",
+    "latlng": [
+      -23,
+      -58
+    ],
+    "flagEmoji": "🇵🇾",
+    "hasPolygon": true,
+    "nativeName": "Paraguái",
+    "nativeLang": "gn"
+  },
+  {
+    "cca2": "PE",
+    "cca3": "PER",
+    "ccn3": "604",
+    "nameES": "Perú",
+    "nameEN": "Peru",
+    "capital": "Lima",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 31989256,
+    "area": 1285216,
+    "currencies": [
+      {
+        "code": "PEN",
+        "name": "Sol peruano",
+        "symbol": "S/."
+      }
+    ],
+    "languages": [
+      "Aymara",
+      "Quechua",
+      "Español"
+    ],
+    "demonym": "peruano/a",
+    "latlng": [
+      -10,
+      -76
+    ],
+    "flagEmoji": "🇵🇪",
+    "hasPolygon": true,
+    "nativeName": "Perú",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "PL",
+    "cca3": "POL",
+    "ccn3": "616",
+    "nameES": "Polonia",
+    "nameEN": "Poland",
+    "capital": "Varsovia",
+    "continent": "europe",
+    "subregion": "Central Europe",
+    "population": 37974750,
+    "area": 312679,
+    "currencies": [
+      {
+        "code": "PLN",
+        "name": "Zloty polaco",
+        "symbol": "zł"
+      }
+    ],
+    "languages": [
+      "Polaco"
+    ],
+    "demonym": "polaco/a",
+    "latlng": [
+      52,
+      20
+    ],
+    "flagEmoji": "🇵🇱",
+    "hasPolygon": true,
+    "nativeName": "Polska",
+    "nativeLang": "pl"
+  },
+  {
+    "cca2": "PT",
+    "cca3": "PRT",
+    "ccn3": "620",
+    "nameES": "Portugal",
+    "nameEN": "Portugal",
+    "capital": "Lisboa",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "population": 10283822,
+    "area": 92090,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Portugués"
+    ],
+    "demonym": "portugués/a",
+    "latlng": [
+      39.5,
+      -8
+    ],
+    "flagEmoji": "🇵🇹",
+    "hasPolygon": true,
+    "nativeName": "Portugal",
+    "nativeLang": "pt"
+  },
+  {
+    "cca2": "GB",
+    "cca3": "GBR",
+    "ccn3": "826",
+    "nameES": "Reino Unido",
+    "nameEN": "United Kingdom",
+    "capital": "Londres",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 66460344,
+    "area": 242900,
+    "currencies": [
+      {
+        "code": "GBP",
+        "name": "Libra esterlina",
+        "symbol": "£"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "británico/a",
+    "latlng": [
+      54,
+      -2
+    ],
+    "flagEmoji": "🇬🇧",
+    "hasPolygon": true,
+    "nativeName": "United Kingdom",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "CF",
+    "cca3": "CAF",
+    "ccn3": "140",
+    "nameES": "República Centroafricana",
+    "nameEN": "Central African Republic",
+    "capital": "Bangui",
+    "continent": "africa",
+    "subregion": "África Central",
+    "population": 4666377,
+    "area": 622984,
+    "currencies": [
+      {
+        "code": "XAF",
+        "name": "Franco CFA de África Central",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés",
+      "Sango"
+    ],
+    "demonym": "centroafricano/a",
+    "latlng": [
+      7,
+      21
+    ],
+    "flagEmoji": "🇨🇫",
+    "hasPolygon": true,
+    "nativeName": "République centrafricaine",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "DO",
+    "cca3": "DOM",
+    "ccn3": "214",
+    "nameES": "República Dominicana",
+    "nameEN": "Dominican Republic",
+    "capital": "Santo Domingo",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 10627165,
+    "area": 48671,
+    "currencies": [
+      {
+        "code": "DOP",
+        "name": "Peso dominicano",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "dominicano/a",
+    "latlng": [
+      19,
+      -70.66666666
+    ],
+    "flagEmoji": "🇩🇴",
+    "hasPolygon": true,
+    "nativeName": "República Dominicana",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "RW",
+    "cca3": "RWA",
+    "ccn3": "646",
+    "nameES": "Ruanda",
+    "nameEN": "Rwanda",
+    "capital": "Kigali",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 12301939,
+    "area": 26338,
+    "currencies": [
+      {
+        "code": "RWF",
+        "name": "Rwandan franc",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Francés",
+      "Kinyarwanda"
+    ],
+    "demonym": "ruandés/a",
+    "latlng": [
+      -2,
+      30
+    ],
+    "flagEmoji": "🇷🇼",
+    "hasPolygon": true,
+    "nativeName": "Rwanda",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "RO",
+    "cca3": "ROU",
+    "ccn3": "642",
+    "nameES": "Rumania",
+    "nameEN": "Romania",
+    "capital": "Bucarest",
+    "continent": "europe",
+    "subregion": "Southeast Europe",
+    "population": 19466145,
+    "area": 238391,
+    "currencies": [
+      {
+        "code": "RON",
+        "name": "Leu rumano",
+        "symbol": "lei"
+      }
+    ],
+    "languages": [
+      "Rumano"
+    ],
+    "demonym": "rumano/a",
+    "latlng": [
+      46,
+      25
+    ],
+    "flagEmoji": "🇷🇴",
+    "hasPolygon": true,
+    "nativeName": "România",
+    "nativeLang": "ro"
+  },
+  {
+    "cca2": "RU",
+    "cca3": "RUS",
+    "ccn3": "643",
+    "nameES": "Rusia",
+    "nameEN": "Russia",
+    "capital": "Moscú",
+    "continent": "europe",
+    "subregion": "Europa Oriental",
+    "population": 144478050,
+    "area": 17098242,
+    "currencies": [
+      {
+        "code": "RUB",
+        "name": "Rublo ruso",
+        "symbol": "₽"
+      }
+    ],
+    "languages": [
+      "Ruso"
+    ],
+    "demonym": "ruso/a",
+    "latlng": [
+      60,
+      100
+    ],
+    "flagEmoji": "🇷🇺",
+    "hasPolygon": true,
+    "nativeName": "Россия",
+    "nativeLang": "ru"
+  },
+  {
+    "cca2": "WS",
+    "cca3": "WSM",
+    "ccn3": "882",
+    "nameES": "Samoa",
+    "nameEN": "Samoa",
+    "capital": "Apia",
+    "continent": "oceania",
+    "subregion": "Polinesia",
+    "population": 196130,
+    "area": 2842,
+    "currencies": [
+      {
+        "code": "WST",
+        "name": "Tala",
+        "symbol": "T"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Samoan"
+    ],
+    "demonym": "samoano/a",
+    "latlng": [
+      -13.58333333,
+      -172.33333333
+    ],
+    "flagEmoji": "🇼🇸",
+    "hasPolygon": false,
+    "nativeName": "Samoa",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "KN",
+    "cca3": "KNA",
+    "ccn3": "659",
+    "nameES": "San Cristóbal y Nieves",
+    "nameEN": "Saint Kitts and Nevis",
+    "capital": "Basseterre",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 52441,
+    "area": 261,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Dólar del Caribe Oriental",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Kittitian or Nevisian",
+    "latlng": [
+      17.33333333,
+      -62.75
+    ],
+    "flagEmoji": "🇰🇳",
+    "hasPolygon": false,
+    "nativeName": "Saint Kitts and Nevis",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "SM",
+    "cca3": "SMR",
+    "ccn3": "674",
+    "nameES": "San Marino",
+    "nameEN": "San Marino",
+    "capital": "City of San Marino",
+    "continent": "europe",
+    "subregion": "Europa Meridional",
+    "population": 33785,
+    "area": 61,
+    "currencies": [
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      }
+    ],
+    "languages": [
+      "Italiano"
+    ],
+    "demonym": "sanmarinense",
+    "latlng": [
+      43.76666666,
+      12.41666666
+    ],
+    "flagEmoji": "🇸🇲",
+    "hasPolygon": false,
+    "nativeName": "San Marino",
+    "nativeLang": "it"
+  },
+  {
+    "cca2": "VC",
+    "cca3": "VCT",
+    "ccn3": "670",
+    "nameES": "San Vicente y Granadinas",
+    "nameEN": "Saint Vincent and the Grenadines",
+    "capital": "Kingstown",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 110210,
+    "area": 389,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Dólar del Caribe Oriental",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Saint Vincentian",
+    "latlng": [
+      13.25,
+      -61.2
+    ],
+    "flagEmoji": "🇻🇨",
+    "hasPolygon": false,
+    "nativeName": "Saint Vincent and the Grenadines",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "LC",
+    "cca3": "LCA",
+    "ccn3": "662",
+    "nameES": "Santa Lucía",
+    "nameEN": "Saint Lucia",
+    "capital": "Castries",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 181889,
+    "area": 616,
+    "currencies": [
+      {
+        "code": "XCD",
+        "name": "Dólar del Caribe Oriental",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "Saint Lucian",
+    "latlng": [
+      13.88333333,
+      -60.96666666
+    ],
+    "flagEmoji": "🇱🇨",
+    "hasPolygon": false,
+    "nativeName": "Saint Lucia",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "ST",
+    "cca3": "STP",
+    "ccn3": "678",
+    "nameES": "Santo Tomé y Príncipe",
+    "nameEN": "São Tomé and Príncipe",
+    "capital": "São Tomé",
+    "continent": "africa",
+    "subregion": "África Central",
+    "area": 964,
+    "currencies": [
+      {
+        "code": "STN",
+        "name": "Dobra",
+        "symbol": "Db"
+      }
+    ],
+    "languages": [
+      "Portugués"
+    ],
+    "demonym": "santomense",
+    "latlng": [
+      1,
+      7
+    ],
+    "flagEmoji": "🇸🇹",
+    "hasPolygon": false,
+    "nativeName": "São Tomé e Príncipe",
+    "nativeLang": "pt"
+  },
+  {
+    "cca2": "SN",
+    "cca3": "SEN",
+    "ccn3": "686",
+    "nameES": "Senegal",
+    "nameEN": "Senegal",
+    "capital": "Dakar",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 15854360,
+    "area": 196722,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "Franco CFA de África Occidental",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "senegalés/a",
+    "latlng": [
+      14,
+      -14
+    ],
+    "flagEmoji": "🇸🇳",
+    "hasPolygon": true,
+    "nativeName": "Sénégal",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "RS",
+    "cca3": "SRB",
+    "ccn3": "688",
+    "nameES": "Serbia",
+    "nameEN": "Serbia",
+    "capital": "Belgrade",
+    "continent": "europe",
+    "subregion": "Southeast Europe",
+    "population": 6963764,
+    "area": 88361,
+    "currencies": [
+      {
+        "code": "RSD",
+        "name": "Dinar serbio",
+        "symbol": "дин."
+      }
+    ],
+    "languages": [
+      "Serbio"
+    ],
+    "demonym": "serbio/a",
+    "latlng": [
+      44,
+      21
+    ],
+    "flagEmoji": "🇷🇸",
+    "hasPolygon": true,
+    "nativeName": "Србија",
+    "nativeLang": "sr"
+  },
+  {
+    "cca2": "SC",
+    "cca3": "SYC",
+    "ccn3": "690",
+    "nameES": "Seychelles",
+    "nameEN": "Seychelles",
+    "capital": "Victoria",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 96762,
+    "area": 452,
+    "currencies": [
+      {
+        "code": "SCR",
+        "name": "Rupia de Seychelles",
+        "symbol": "₨"
+      }
+    ],
+    "languages": [
+      "Seychellois Creole",
+      "Inglés",
+      "Francés"
+    ],
+    "demonym": "seychellense",
+    "latlng": [
+      -4.58333333,
+      55.66666666
+    ],
+    "flagEmoji": "🇸🇨",
+    "hasPolygon": false,
+    "nativeName": "Sesel",
+    "nativeLang": "crs"
+  },
+  {
+    "cca2": "SL",
+    "cca3": "SLE",
+    "ccn3": "694",
+    "nameES": "Sierra Leone",
+    "nameEN": "Sierra Leone",
+    "capital": "Freetown",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 7650154,
+    "area": 71740,
+    "currencies": [
+      {
+        "code": "SLL",
+        "name": "Leone",
+        "symbol": "Le"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "sierraleonés/a",
+    "latlng": [
+      8.5,
+      -11.5
+    ],
+    "flagEmoji": "🇸🇱",
+    "hasPolygon": true,
+    "nativeName": "Sierra Leone",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "SG",
+    "cca3": "SGP",
+    "ccn3": "702",
+    "nameES": "Singapur",
+    "nameEN": "Singapore",
+    "capital": "Singapur",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 5638676,
+    "area": 710,
+    "currencies": [
+      {
+        "code": "SGD",
+        "name": "Dólar de Singapur",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Malayo",
+      "Tamil",
+      "Chino"
+    ],
+    "demonym": "singapurense",
+    "latlng": [
+      1.36666666,
+      103.8
+    ],
+    "flagEmoji": "🇸🇬",
+    "hasPolygon": false,
+    "nativeName": "新加坡",
+    "nativeLang": "zh"
+  },
+  {
+    "cca2": "SY",
+    "cca3": "SYR",
+    "ccn3": "760",
+    "nameES": "Siria",
+    "nameEN": "Syria",
+    "capital": "Damasco",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 16906283,
+    "area": 185180,
+    "currencies": [
+      {
+        "code": "SYP",
+        "name": "Libra siria",
+        "symbol": "£"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "sirio/a",
+    "latlng": [
+      35,
+      38
+    ],
+    "flagEmoji": "🇸🇾",
+    "hasPolygon": true,
+    "nativeName": "سوريا",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "SO",
+    "cca3": "SOM",
+    "ccn3": "706",
+    "nameES": "Somalia",
+    "nameEN": "Somalia",
+    "capital": "Mogadishu",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 15008154,
+    "area": 637657,
+    "currencies": [
+      {
+        "code": "SOS",
+        "name": "Chelín somalí",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Somalí"
+    ],
+    "demonym": "somalí",
+    "latlng": [
+      10,
+      49
+    ],
+    "flagEmoji": "🇸🇴",
+    "hasPolygon": true,
+    "nativeName": "الصومال‎‎",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "LK",
+    "cca3": "LKA",
+    "ccn3": "144",
+    "nameES": "Sri Lanka",
+    "nameEN": "Sri Lanka",
+    "capital": "Colombo",
+    "continent": "asia",
+    "subregion": "Asia Meridional",
+    "population": 21670000,
+    "area": 65610,
+    "currencies": [
+      {
+        "code": "LKR",
+        "name": "Rupia ceilandesa",
+        "symbol": "Rs  රු"
+      }
+    ],
+    "languages": [
+      "Cingalés",
+      "Tamil"
+    ],
+    "demonym": "ceilandés/a",
+    "latlng": [
+      7,
+      81
+    ],
+    "flagEmoji": "🇱🇰",
+    "hasPolygon": true,
+    "nativeName": "ශ්‍රී ලංකාව",
+    "nativeLang": "si"
+  },
+  {
+    "cca2": "SZ",
+    "cca3": "SWZ",
+    "ccn3": "748",
+    "nameES": "Suazilandia",
+    "nameEN": "Eswatini",
+    "capital": "Lobamba",
+    "continent": "africa",
+    "subregion": "África Austral",
+    "area": 17364,
+    "currencies": [
+      {
+        "code": "SZL",
+        "name": "Swazi lilangeni",
+        "symbol": "L"
+      },
+      {
+        "code": "ZAR",
+        "name": "Rand sudafricano",
+        "symbol": "R"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Swazi"
+    ],
+    "demonym": "Swazi",
+    "latlng": [
+      -26.5,
+      31.5
+    ],
+    "flagEmoji": "🇸🇿",
+    "hasPolygon": true,
+    "nativeName": "Eswatini",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "ZA",
+    "cca3": "ZAF",
+    "ccn3": "710",
+    "nameES": "Sudáfrica",
+    "nameEN": "South Africa",
+    "capital": "Pretoria",
+    "continent": "africa",
+    "subregion": "África Austral",
+    "population": 57779622,
+    "area": 1221037,
+    "currencies": [
+      {
+        "code": "ZAR",
+        "name": "Rand sudafricano",
+        "symbol": "R"
+      }
+    ],
+    "languages": [
+      "Afrikáans",
+      "Inglés",
+      "Southern Ndebele",
+      "Sepedi",
+      "Southern Sotho",
+      "Swazi",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zulú"
+    ],
+    "demonym": "sudafricano/a",
+    "latlng": [
+      -29,
+      24
+    ],
+    "flagEmoji": "🇿🇦",
+    "hasPolygon": true,
+    "nativeName": "South Africa",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "SD",
+    "cca3": "SDN",
+    "ccn3": "729",
+    "nameES": "Sudán",
+    "nameEN": "Sudan",
+    "capital": "Khartoum",
+    "continent": "africa",
+    "subregion": "África del Norte",
+    "population": 41801533,
+    "area": 1886068,
+    "currencies": [
+      {
+        "code": "SDG",
+        "name": "Libra sudanesa",
+        "symbol": "PT"
+      }
+    ],
+    "languages": [
+      "Árabe",
+      "Inglés"
+    ],
+    "demonym": "sudanés/a",
+    "latlng": [
+      15,
+      30
+    ],
+    "flagEmoji": "🇸🇩",
+    "hasPolygon": true,
+    "nativeName": "السودان",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "SS",
+    "cca3": "SSD",
+    "ccn3": "728",
+    "nameES": "Sudán del Sur",
+    "nameEN": "South Sudan",
+    "capital": "Juba",
+    "continent": "africa",
+    "subregion": "África Central",
+    "population": 10975920,
+    "area": 619745,
+    "currencies": [
+      {
+        "code": "SSP",
+        "name": "Libra sursudanesa",
+        "symbol": "£"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "sursudanés/a",
+    "latlng": [
+      7,
+      30
+    ],
+    "flagEmoji": "🇸🇸",
+    "hasPolygon": true,
+    "nativeName": "South Sudan",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "SE",
+    "cca3": "SWE",
+    "ccn3": "752",
+    "nameES": "Suecia",
+    "nameEN": "Sweden",
+    "capital": "Estocolmo",
+    "continent": "europe",
+    "subregion": "Europa Septentrional",
+    "population": 10175214,
+    "area": 450295,
+    "currencies": [
+      {
+        "code": "SEK",
+        "name": "Corona sueca",
+        "symbol": "kr"
+      }
+    ],
+    "languages": [
+      "Sueco"
+    ],
+    "demonym": "sueco/a",
+    "latlng": [
+      62,
+      15
+    ],
+    "flagEmoji": "🇸🇪",
+    "hasPolygon": true,
+    "nativeName": "Sverige",
+    "nativeLang": "sv"
+  },
+  {
+    "cca2": "CH",
+    "cca3": "CHE",
+    "ccn3": "756",
+    "nameES": "Suiza",
+    "nameEN": "Switzerland",
+    "capital": "Berna",
+    "continent": "europe",
+    "subregion": "Europa Occidental",
+    "population": 8513227,
+    "area": 41284,
+    "currencies": [
+      {
+        "code": "CHF",
+        "name": "Franco suizo",
+        "symbol": "Fr."
+      }
+    ],
+    "languages": [
+      "Francés",
+      "Swiss German",
+      "Italiano",
+      "Romansh"
+    ],
+    "demonym": "suizo/a",
+    "latlng": [
+      47,
+      8
+    ],
+    "flagEmoji": "🇨🇭",
+    "hasPolygon": true,
+    "nativeName": "Suisse",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "SR",
+    "cca3": "SUR",
+    "ccn3": "740",
+    "nameES": "Surinam",
+    "nameEN": "Suriname",
+    "capital": "Paramaribo",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 575991,
+    "area": 163820,
+    "currencies": [
+      {
+        "code": "SRD",
+        "name": "Dólar surinamés",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Neerlandés"
+    ],
+    "demonym": "Surinamer",
+    "latlng": [
+      4,
+      -56
+    ],
+    "flagEmoji": "🇸🇷",
+    "hasPolygon": true,
+    "nativeName": "Suriname",
+    "nativeLang": "nl"
+  },
+  {
+    "cca2": "TH",
+    "cca3": "THA",
+    "ccn3": "764",
+    "nameES": "Tailandia",
+    "nameEN": "Thailand",
+    "capital": "Bangkok",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 69428524,
+    "area": 513120,
+    "currencies": [
+      {
+        "code": "THB",
+        "name": "Baht tailandés",
+        "symbol": "฿"
+      }
+    ],
+    "languages": [
+      "Tailandés"
+    ],
+    "demonym": "tailandés/a",
+    "latlng": [
+      15,
+      100
+    ],
+    "flagEmoji": "🇹🇭",
+    "hasPolygon": true,
+    "nativeName": "ประเทศไทย",
+    "nativeLang": "th"
+  },
+  {
+    "cca2": "TZ",
+    "cca3": "TZA",
+    "ccn3": "834",
+    "nameES": "Tanzania",
+    "nameEN": "Tanzania",
+    "capital": "Dodoma",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 56318348,
+    "area": 945087,
+    "currencies": [
+      {
+        "code": "TZS",
+        "name": "Chelín tanzano",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Suajili"
+    ],
+    "demonym": "tanzano/a",
+    "latlng": [
+      -6,
+      35
+    ],
+    "flagEmoji": "🇹🇿",
+    "hasPolygon": true,
+    "nativeName": "Tanzania",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "TJ",
+    "cca3": "TJK",
+    "ccn3": "762",
+    "nameES": "Tayikistán",
+    "nameEN": "Tajikistan",
+    "capital": "Dushanbe",
+    "continent": "asia",
+    "subregion": "Asia Central",
+    "population": 9100837,
+    "area": 143100,
+    "currencies": [
+      {
+        "code": "TJS",
+        "name": "Somoni tayiko",
+        "symbol": "ЅМ"
+      }
+    ],
+    "languages": [
+      "Ruso",
+      "Tajik"
+    ],
+    "demonym": "tayiko/a",
+    "latlng": [
+      39,
+      71
+    ],
+    "flagEmoji": "🇹🇯",
+    "hasPolygon": true,
+    "nativeName": "Таджикистан",
+    "nativeLang": "ru"
+  },
+  {
+    "cca2": "TL",
+    "cca3": "TLS",
+    "ccn3": "626",
+    "nameES": "Timor Oriental",
+    "nameEN": "Timor-Leste",
+    "capital": "Dili",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 1267972,
+    "area": 14874,
+    "currencies": [
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Portugués",
+      "Tetum"
+    ],
+    "demonym": "East Timorese",
+    "latlng": [
+      -8.83333333,
+      125.91666666
+    ],
+    "flagEmoji": "🇹🇱",
+    "hasPolygon": true,
+    "nativeName": "Timor-Leste",
+    "nativeLang": "pt"
+  },
+  {
+    "cca2": "TG",
+    "cca3": "TGO",
+    "ccn3": "768",
+    "nameES": "Togo",
+    "nameEN": "Togo",
+    "capital": "Lomé",
+    "continent": "africa",
+    "subregion": "África Occidental",
+    "population": 7889094,
+    "area": 56785,
+    "currencies": [
+      {
+        "code": "XOF",
+        "name": "Franco CFA de África Occidental",
+        "symbol": "Fr"
+      }
+    ],
+    "languages": [
+      "Francés"
+    ],
+    "demonym": "togolés/a",
+    "latlng": [
+      8,
+      1.16666666
+    ],
+    "flagEmoji": "🇹🇬",
+    "hasPolygon": true,
+    "nativeName": "Togo",
+    "nativeLang": "fr"
+  },
+  {
+    "cca2": "TO",
+    "cca3": "TON",
+    "ccn3": "776",
+    "nameES": "Tonga",
+    "nameEN": "Tonga",
+    "capital": "Nukualofa",
+    "continent": "oceania",
+    "subregion": "Polinesia",
+    "population": 103197,
+    "area": 747,
+    "currencies": [
+      {
+        "code": "TOP",
+        "name": "Pa'anga",
+        "symbol": "T$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Tongan"
+    ],
+    "demonym": "tongano/a",
+    "latlng": [
+      -20,
+      -175
+    ],
+    "flagEmoji": "🇹🇴",
+    "hasPolygon": false,
+    "nativeName": "Tonga",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "TT",
+    "cca3": "TTO",
+    "ccn3": "780",
+    "nameES": "Trinidad y Tobago",
+    "nameEN": "Trinidad and Tobago",
+    "capital": "Puerto España",
+    "continent": "north-america",
+    "subregion": "Caribe",
+    "population": 1389858,
+    "area": 5130,
+    "currencies": [
+      {
+        "code": "TTD",
+        "name": "Dólar de Trinidad y Tobago",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "trinitense",
+    "latlng": [
+      11,
+      -61
+    ],
+    "flagEmoji": "🇹🇹",
+    "hasPolygon": true,
+    "nativeName": "Trinidad and Tobago",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "TN",
+    "cca3": "TUN",
+    "ccn3": "788",
+    "nameES": "Túnez",
+    "nameEN": "Tunisia",
+    "capital": "Tunis",
+    "continent": "africa",
+    "subregion": "África del Norte",
+    "population": 11565204,
+    "area": 163610,
+    "currencies": [
+      {
+        "code": "TND",
+        "name": "Dinar tunecino",
+        "symbol": "د.ت"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "tunecino/a",
+    "latlng": [
+      34,
+      9
+    ],
+    "flagEmoji": "🇹🇳",
+    "hasPolygon": true,
+    "nativeName": "تونس",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "TM",
+    "cca3": "TKM",
+    "ccn3": "795",
+    "nameES": "Turkmenistán",
+    "nameEN": "Turkmenistan",
+    "capital": "Ashgabat",
+    "continent": "asia",
+    "subregion": "Asia Central",
+    "population": 5850908,
+    "area": 488100,
+    "currencies": [
+      {
+        "code": "TMT",
+        "name": "Manat turcomano",
+        "symbol": "m"
+      }
+    ],
+    "languages": [
+      "Ruso",
+      "Turkmen"
+    ],
+    "demonym": "turcomano/a",
+    "latlng": [
+      40,
+      60
+    ],
+    "flagEmoji": "🇹🇲",
+    "hasPolygon": true,
+    "nativeName": "Туркмения",
+    "nativeLang": "ru"
+  },
+  {
+    "cca2": "TR",
+    "cca3": "TUR",
+    "ccn3": "792",
+    "nameES": "Turquía",
+    "nameEN": "Türkiye",
+    "capital": "Ankara",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "area": 783562,
+    "currencies": [
+      {
+        "code": "TRY",
+        "name": "Lira turca",
+        "symbol": "₺"
+      }
+    ],
+    "languages": [
+      "Turco"
+    ],
+    "demonym": "turco/a",
+    "latlng": [
+      39,
+      35
+    ],
+    "flagEmoji": "🇹🇷",
+    "hasPolygon": true,
+    "nativeName": "Türkiye",
+    "nativeLang": "tr"
+  },
+  {
+    "cca2": "TV",
+    "cca3": "TUV",
+    "ccn3": "798",
+    "nameES": "Tuvalu",
+    "nameEN": "Tuvalu",
+    "capital": "Funafuti",
+    "continent": "oceania",
+    "subregion": "Polinesia",
+    "population": 11508,
+    "area": 26,
+    "currencies": [
+      {
+        "code": "AUD",
+        "name": "Dólar australiano",
+        "symbol": "$"
+      },
+      {
+        "code": "TVD",
+        "name": "Tuvaluan dollar",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Tuvaluan"
+    ],
+    "demonym": "tuvaluano/a",
+    "latlng": [
+      -8,
+      178
+    ],
+    "flagEmoji": "🇹🇻",
+    "hasPolygon": false,
+    "nativeName": "Tuvalu",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "UA",
+    "cca3": "UKR",
+    "ccn3": "804",
+    "nameES": "Ucrania",
+    "nameEN": "Ukraine",
+    "capital": "Kiev",
+    "continent": "europe",
+    "subregion": "Europa Oriental",
+    "population": 44622516,
+    "area": 603500,
+    "currencies": [
+      {
+        "code": "UAH",
+        "name": "Grivna ucraniana",
+        "symbol": "₴"
+      }
+    ],
+    "languages": [
+      "Ucraniano"
+    ],
+    "demonym": "ucraniano/a",
+    "latlng": [
+      49,
+      32
+    ],
+    "flagEmoji": "🇺🇦",
+    "hasPolygon": true,
+    "nativeName": "Україна",
+    "nativeLang": "uk"
+  },
+  {
+    "cca2": "UG",
+    "cca3": "UGA",
+    "ccn3": "800",
+    "nameES": "Uganda",
+    "nameEN": "Uganda",
+    "capital": "Kampala",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 42723139,
+    "area": 241550,
+    "currencies": [
+      {
+        "code": "UGX",
+        "name": "Chelín ugandés",
+        "symbol": "Sh"
+      }
+    ],
+    "languages": [
+      "Inglés",
+      "Suajili"
+    ],
+    "demonym": "ugandés/a",
+    "latlng": [
+      1,
+      32
+    ],
+    "flagEmoji": "🇺🇬",
+    "hasPolygon": true,
+    "nativeName": "Uganda",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "UY",
+    "cca3": "URY",
+    "ccn3": "858",
+    "nameES": "Uruguay",
+    "nameEN": "Uruguay",
+    "capital": "Montevideo",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 3449299,
+    "area": 181034,
+    "currencies": [
+      {
+        "code": "UYU",
+        "name": "Peso uruguayo",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "uruguayo/a",
+    "latlng": [
+      -33,
+      -56
+    ],
+    "flagEmoji": "🇺🇾",
+    "hasPolygon": true,
+    "nativeName": "Uruguay",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "UZ",
+    "cca3": "UZB",
+    "ccn3": "860",
+    "nameES": "Uzbekistán",
+    "nameEN": "Uzbekistan",
+    "capital": "Taskent",
+    "continent": "asia",
+    "subregion": "Asia Central",
+    "population": 32955400,
+    "area": 447400,
+    "currencies": [
+      {
+        "code": "UZS",
+        "name": "Uzbekistani soʻm",
+        "symbol": "so'm"
+      }
+    ],
+    "languages": [
+      "Ruso",
+      "Uzbeko"
+    ],
+    "demonym": "uzbeko/a",
+    "latlng": [
+      41,
+      64
+    ],
+    "flagEmoji": "🇺🇿",
+    "hasPolygon": true,
+    "nativeName": "Узбекистан",
+    "nativeLang": "ru"
+  },
+  {
+    "cca2": "VU",
+    "cca3": "VUT",
+    "ccn3": "548",
+    "nameES": "Vanuatu",
+    "nameEN": "Vanuatu",
+    "capital": "Port Vila",
+    "continent": "oceania",
+    "subregion": "Melanesia",
+    "population": 292680,
+    "area": 12189,
+    "currencies": [
+      {
+        "code": "VUV",
+        "name": "Vatu",
+        "symbol": "Vt"
+      }
+    ],
+    "languages": [
+      "Bislama",
+      "Inglés",
+      "Francés"
+    ],
+    "demonym": "Ni-Vanuatu",
+    "latlng": [
+      -16,
+      167
+    ],
+    "flagEmoji": "🇻🇺",
+    "hasPolygon": true,
+    "nativeName": "Vanuatu",
+    "nativeLang": "bi"
+  },
+  {
+    "cca2": "VE",
+    "cca3": "VEN",
+    "ccn3": "862",
+    "nameES": "Venezuela",
+    "nameEN": "Venezuela",
+    "capital": "Caracas",
+    "continent": "south-america",
+    "subregion": "Sudamérica",
+    "population": 28870195,
+    "area": 916445,
+    "currencies": [
+      {
+        "code": "VES",
+        "name": "Bolívar",
+        "symbol": "Bs.S."
+      }
+    ],
+    "languages": [
+      "Español"
+    ],
+    "demonym": "venezolano/a",
+    "latlng": [
+      8,
+      -66
+    ],
+    "flagEmoji": "🇻🇪",
+    "hasPolygon": true,
+    "nativeName": "Venezuela",
+    "nativeLang": "es"
+  },
+  {
+    "cca2": "VN",
+    "cca3": "VNM",
+    "ccn3": "704",
+    "nameES": "Vietnam",
+    "nameEN": "Vietnam",
+    "capital": "Hanói",
+    "continent": "asia",
+    "subregion": "Sudeste Asiático",
+    "population": 95540395,
+    "area": 331212,
+    "currencies": [
+      {
+        "code": "VND",
+        "name": "Dong vietnamita",
+        "symbol": "₫"
+      }
+    ],
+    "languages": [
+      "Vietnamita"
+    ],
+    "demonym": "vietnamita",
+    "latlng": [
+      16.16666666,
+      107.83333333
+    ],
+    "flagEmoji": "🇻🇳",
+    "hasPolygon": true,
+    "nativeName": "Việt Nam",
+    "nativeLang": "vi"
+  },
+  {
+    "cca2": "YE",
+    "cca3": "YEM",
+    "ccn3": "887",
+    "nameES": "Yemen",
+    "nameEN": "Yemen",
+    "capital": "Saná",
+    "continent": "asia",
+    "subregion": "Asia Occidental",
+    "population": 28498687,
+    "area": 527968,
+    "currencies": [
+      {
+        "code": "YER",
+        "name": "Rial yemení",
+        "symbol": "﷼"
+      }
+    ],
+    "languages": [
+      "Árabe"
+    ],
+    "demonym": "yemení",
+    "latlng": [
+      15,
+      48
+    ],
+    "flagEmoji": "🇾🇪",
+    "hasPolygon": true,
+    "nativeName": "اليَمَن",
+    "nativeLang": "ar"
+  },
+  {
+    "cca2": "ZM",
+    "cca3": "ZMB",
+    "ccn3": "894",
+    "nameES": "Zambia",
+    "nameEN": "Zambia",
+    "capital": "Lusaka",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 17351822,
+    "area": 752612,
+    "currencies": [
+      {
+        "code": "ZMW",
+        "name": "Kwacha zambiano",
+        "symbol": "ZK"
+      }
+    ],
+    "languages": [
+      "Inglés"
+    ],
+    "demonym": "zambiano/a",
+    "latlng": [
+      -15,
+      30
+    ],
+    "flagEmoji": "🇿🇲",
+    "hasPolygon": true,
+    "nativeName": "Zambia",
+    "nativeLang": "en"
+  },
+  {
+    "cca2": "ZW",
+    "cca3": "ZWE",
+    "ccn3": "716",
+    "nameES": "Zimbabue",
+    "nameEN": "Zimbabwe",
+    "capital": "Harare",
+    "continent": "africa",
+    "subregion": "África Oriental",
+    "population": 14439018,
+    "area": 390757,
+    "currencies": [
+      {
+        "code": "BWP",
+        "name": "Pula",
+        "symbol": "P"
+      },
+      {
+        "code": "CNY",
+        "name": "Yuan",
+        "symbol": "¥"
+      },
+      {
+        "code": "EUR",
+        "name": "Euro",
+        "symbol": "€"
+      },
+      {
+        "code": "GBP",
+        "name": "Libra esterlina",
+        "symbol": "£"
+      },
+      {
+        "code": "INR",
+        "name": "Rupia india",
+        "symbol": "₹"
+      },
+      {
+        "code": "JPY",
+        "name": "Yen japonés",
+        "symbol": "¥"
+      },
+      {
+        "code": "USD",
+        "name": "Dólar estadounidense",
+        "symbol": "$"
+      },
+      {
+        "code": "ZAR",
+        "name": "Rand sudafricano",
+        "symbol": "Rs"
+      },
+      {
+        "code": "ZWB",
+        "name": "Zimbabwean bonds",
+        "symbol": "$"
+      }
+    ],
+    "languages": [
+      "Chibarwe",
+      "Inglés",
+      "Kalanga",
+      "Khoisan",
+      "Ndau",
+      "Northern Ndebele",
+      "Chewa",
+      "Shona",
+      "Sotho",
+      "Tonga",
+      "Tswana",
+      "Tsonga",
+      "Venda",
+      "Xhosa",
+      "Zimbabwean Sign Language"
+    ],
+    "demonym": "zimbabuense",
+    "latlng": [
+      -20,
+      30
+    ],
+    "flagEmoji": "🇿🇼",
+    "hasPolygon": true,
+    "nativeName": "Zimbabwe",
+    "nativeLang": "en"
+  }
+]
